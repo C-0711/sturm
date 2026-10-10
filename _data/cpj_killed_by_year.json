@@ -1,0 +1,181 @@
+{
+ "source": "CPJ wp-json/cpj-datamanager/v1/killed_by_year, status=Killed, type=Journalist+Media Worker, 1992-2026, fetched 2026-10-10",
+ "url": "https://cpj.org/data/killed/all/?status=Killed&type%5B%5D=Journalist&type%5B%5D=Media%20Worker&start_year=1992&end_year=2026&group_by=year",
+ "data": [
+  {
+   "Year": "2026",
+   "Confirmed": 18,
+   "Unconfirmed": 14
+  },
+  {
+   "Year": "2025",
+   "Confirmed": 90,
+   "Unconfirmed": 22
+  },
+  {
+   "Year": "2024",
+   "Confirmed": 98,
+   "Unconfirmed": 11
+  },
+  {
+   "Year": "2023",
+   "Confirmed": 69,
+   "Unconfirmed": 9
+  },
+  {
+   "Year": "2022",
+   "Confirmed": 42,
+   "Unconfirmed": 26
+  },
+  {
+   "Year": "2021",
+   "Confirmed": 30,
+   "Unconfirmed": 15
+  },
+  {
+   "Year": "2020",
+   "Confirmed": 33,
+   "Unconfirmed": 17
+  },
+  {
+   "Year": "2019",
+   "Confirmed": 28,
+   "Unconfirmed": 24
+  },
+  {
+   "Year": "2018",
+   "Confirmed": 58,
+   "Unconfirmed": 21
+  },
+  {
+   "Year": "2017",
+   "Confirmed": 48,
+   "Unconfirmed": 20
+  },
+  {
+   "Year": "2016",
+   "Confirmed": 51,
+   "Unconfirmed": 28
+  },
+  {
+   "Year": "2015",
+   "Confirmed": 73,
+   "Unconfirmed": 24
+  },
+  {
+   "Year": "2014",
+   "Confirmed": 62,
+   "Unconfirmed": 20
+  },
+  {
+   "Year": "2013",
+   "Confirmed": 74,
+   "Unconfirmed": 24
+  },
+  {
+   "Year": "2012",
+   "Confirmed": 74,
+   "Unconfirmed": 30
+  },
+  {
+   "Year": "2011",
+   "Confirmed": 49,
+   "Unconfirmed": 32
+  },
+  {
+   "Year": "2010",
+   "Confirmed": 44,
+   "Unconfirmed": 32
+  },
+  {
+   "Year": "2009",
+   "Confirmed": 76,
+   "Unconfirmed": 23
+  },
+  {
+   "Year": "2008",
+   "Confirmed": 42,
+   "Unconfirmed": 24
+  },
+  {
+   "Year": "2007",
+   "Confirmed": 70,
+   "Unconfirmed": 23
+  },
+  {
+   "Year": "2006",
+   "Confirmed": 57,
+   "Unconfirmed": 29
+  },
+  {
+   "Year": "2005",
+   "Confirmed": 51,
+   "Unconfirmed": 10
+  },
+  {
+   "Year": "2004",
+   "Confirmed": 61,
+   "Unconfirmed": 14
+  },
+  {
+   "Year": "2003",
+   "Confirmed": 42,
+   "Unconfirmed": 11
+  },
+  {
+   "Year": "2002",
+   "Confirmed": 21,
+   "Unconfirmed": 14
+  },
+  {
+   "Year": "2001",
+   "Confirmed": 38,
+   "Unconfirmed": 17
+  },
+  {
+   "Year": "2000",
+   "Confirmed": 24,
+   "Unconfirmed": 21
+  },
+  {
+   "Year": "1999",
+   "Confirmed": 36,
+   "Unconfirmed": 17
+  },
+  {
+   "Year": "1998",
+   "Confirmed": 24,
+   "Unconfirmed": 12
+  },
+  {
+   "Year": "1997",
+   "Confirmed": 26,
+   "Unconfirmed": 9
+  },
+  {
+   "Year": "1996",
+   "Confirmed": 26,
+   "Unconfirmed": 8
+  },
+  {
+   "Year": "1995",
+   "Confirmed": 51,
+   "Unconfirmed": 9
+  },
+  {
+   "Year": "1994",
+   "Confirmed": 66,
+   "Unconfirmed": 18
+  },
+  {
+   "Year": "1993",
+   "Confirmed": 55,
+   "Unconfirmed": 16
+  },
+  {
+   "Year": "1992",
+   "Confirmed": 45,
+   "Unconfirmed": 11
+  }
+ ]
+}

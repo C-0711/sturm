@@ -1,0 +1,24 @@
+title: STURM
+description: >-
+  Ein kollaboratives Wiki gegen Zensur, für digitale Souveränität und gegen
+  die Kontrolle durch Konzerne und Staaten. Belege statt Behauptungen —
+  evidence over claims.
+url: "https://sturm.wtf"
+repo_url: "https://github.com/C-0711/sturm"
+lang: de
+permalink: pretty
+markdown: kramdown
+kramdown:
+  auto_ids: true
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: page
+  -
+    scope:
+      path: "index.md"
+    values:
+      lang: de
+      layout: home

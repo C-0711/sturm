@@ -1,0 +1,65 @@
+{
+ "source": "CPJ wp-json killed_by_year, status=Killed, cc_fips=IS, source_of_fire=Government+Military Officials (media worker counts partially merged), fetched 2026-10-10",
+ "data": [
+  {
+   "Year": "2026",
+   "Killed": 7
+  },
+  {
+   "Year": "2025",
+   "Killed": 51
+  },
+  {
+   "Year": "2024",
+   "Killed": 69
+  },
+  {
+   "Year": "2023",
+   "Killed": 64
+  },
+  {
+   "Year": "2022",
+   "Killed": 1
+  },
+  {
+   "Year": "2021",
+   "Killed": 1
+  },
+  {
+   "Year": "2018",
+   "Killed": 2
+  },
+  {
+   "Year": "2014",
+   "Killed": 4
+  },
+  {
+   "Year": "2012",
+   "Killed": 2
+  },
+  {
+   "Year": "2009",
+   "Killed": 1
+  },
+  {
+   "Year": "2008",
+   "Killed": 1
+  },
+  {
+   "Year": "2004",
+   "Killed": 1
+  },
+  {
+   "Year": "2003",
+   "Killed": 2
+  },
+  {
+   "Year": "2002",
+   "Killed": 3
+  },
+  {
+   "Year": "2001",
+   "Killed": 1
+  }
+ ]
+}

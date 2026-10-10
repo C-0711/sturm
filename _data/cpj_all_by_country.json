@@ -1,0 +1,186 @@
+{
+ "source": "CPJ wp-json counts_by_country, status=Killed, type=Journalist+Media Worker, 1992-2026, fetched 2026-10-10",
+ "url": "https://cpj.org/data/killed/all/?status=Killed&type%5B%5D=Journalist&type%5B%5D=Media%20Worker&start_year=1992&end_year=2026",
+ "data": [
+  {
+   "country": "Iraq",
+   "killed_all": 286
+  },
+  {
+   "country": "Israel and the Occupied Palestinian Territory",
+   "killed_all": 221
+  },
+  {
+   "country": "Mexico",
+   "killed_all": 171
+  },
+  {
+   "country": "Philippines",
+   "killed_all": 164
+  },
+  {
+   "country": "Syria",
+   "killed_all": 163
+  },
+  {
+   "country": "Pakistan",
+   "killed_all": 106
+  },
+  {
+   "country": "Colombia",
+   "killed_all": 100
+  },
+  {
+   "country": "India",
+   "killed_all": 94
+  },
+  {
+   "country": "Somalia",
+   "killed_all": 86
+  },
+  {
+   "country": "Russia",
+   "killed_all": 84
+  },
+  {
+   "country": "Afghanistan",
+   "killed_all": 80
+  },
+  {
+   "country": "Yemen",
+   "killed_all": 69
+  },
+  {
+   "country": "Brazil",
+   "killed_all": 60
+  },
+  {
+   "country": "Algeria",
+   "killed_all": 60
+  },
+  {
+   "country": "Ukraine",
+   "killed_all": 42
+  },
+  {
+   "country": "Honduras",
+   "killed_all": 40
+  },
+  {
+   "country": "Bangladesh",
+   "killed_all": 40
+  },
+  {
+   "country": "Guatemala",
+   "killed_all": 31
+  },
+  {
+   "country": "Turkey",
+   "killed_all": 31
+  },
+  {
+   "country": "Tajikistan",
+   "killed_all": 29
+  },
+  {
+   "country": "Lebanon",
+   "killed_all": 27
+  },
+  {
+   "country": "Sri Lanka",
+   "killed_all": 25
+  },
+  {
+   "country": "Nigeria",
+   "killed_all": 25
+  },
+  {
+   "country": "Rwanda",
+   "killed_all": 25
+  },
+  {
+   "country": "Bosnia",
+   "killed_all": 25
+  },
+  {
+   "country": "Haiti",
+   "killed_all": 24
+  },
+  {
+   "country": "Peru",
+   "killed_all": 21
+  },
+  {
+   "country": "Nepal",
+   "killed_all": 18
+  },
+  {
+   "country": "Sudan",
+   "killed_all": 18
+  },
+  {
+   "country": "Sierra Leone",
+   "killed_all": 18
+  },
+  {
+   "country": "Democratic Republic of the Congo",
+   "killed_all": 17
+  },
+  {
+   "country": "USA",
+   "killed_all": 17
+  },
+  {
+   "country": "Thailand",
+   "killed_all": 16
+  },
+  {
+   "country": "Libya",
+   "killed_all": 15
+  },
+  {
+   "country": "Indonesia",
+   "killed_all": 14
+  },
+  {
+   "country": "Egypt",
+   "killed_all": 13
+  },
+  {
+   "country": "Myanmar",
+   "killed_all": 13
+  },
+  {
+   "country": "Cambodia",
+   "killed_all": 13
+  },
+  {
+   "country": "Angola",
+   "killed_all": 11
+  },
+  {
+   "country": "Venezuela",
+   "killed_all": 10
+  },
+  {
+   "country": "France",
+   "killed_all": 10
+  },
+  {
+   "country": "Georgia",
+   "killed_all": 10
+  },
+  {
+   "country": "Paraguay",
+   "killed_all": 10
+  },
+  {
+   "country": "Iran",
+   "killed_all": 10
+  },
+  {
+   "country": "South Sudan",
+   "killed_all": 10
+  }
+ ]
+}

@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "💬 Diskussion (Fälle, Prioritäten, Streit)"
+    url: https://github.com/C-0711/sturm/discussions
+    about: Für alles, was kein Issue ist.
+  - name: "🌍 STURM"
+    url: https://sturm.wtf
+    about: Das Wiki selbst.

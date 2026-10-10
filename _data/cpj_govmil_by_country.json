@@ -1,0 +1,322 @@
+{
+ "source": "CPJ wp-json counts_by_country, status=Killed, source_of_fire=Government Officials+Military Officials, 1992-2026, fetched 2026-10-10",
+ "url": "https://cpj.org/data/killed/all/?status=Killed&start_year=1992&end_year=2026&source_of_fire%5B%5D=Government%20Officials&source_of_fire%5B%5D=Military%20Officials",
+ "data": [
+  {
+   "country": "Israel and the Occupied Palestinian Territory",
+   "killed_gov_mil": 210
+  },
+  {
+   "country": "Syria",
+   "killed_gov_mil": 90
+  },
+  {
+   "country": "Philippines",
+   "killed_gov_mil": 58
+  },
+  {
+   "country": "Yemen",
+   "killed_gov_mil": 41
+  },
+  {
+   "country": "Russia",
+   "killed_gov_mil": 34
+  },
+  {
+   "country": "Iraq",
+   "killed_gov_mil": 32
+  },
+  {
+   "country": "Ukraine",
+   "killed_gov_mil": 27
+  },
+  {
+   "country": "Brazil",
+   "killed_gov_mil": 23
+  },
+  {
+   "country": "Mexico",
+   "killed_gov_mil": 19
+  },
+  {
+   "country": "Lebanon",
+   "killed_gov_mil": 17
+  },
+  {
+   "country": "Colombia",
+   "killed_gov_mil": 13
+  },
+  {
+   "country": "Turkey",
+   "killed_gov_mil": 11
+  },
+  {
+   "country": "Bosnia",
+   "killed_gov_mil": 11
+  },
+  {
+   "country": "Myanmar",
+   "killed_gov_mil": 11
+  },
+  {
+   "country": "Pakistan",
+   "killed_gov_mil": 11
+  },
+  {
+   "country": "Sri Lanka",
+   "killed_gov_mil": 9
+  },
+  {
+   "country": "Afghanistan",
+   "killed_gov_mil": 9
+  },
+  {
+   "country": "Cambodia",
+   "killed_gov_mil": 8
+  },
+  {
+   "country": "Iran",
+   "killed_gov_mil": 8
+  },
+  {
+   "country": "India",
+   "killed_gov_mil": 8
+  },
+  {
+   "country": "Bangladesh",
+   "killed_gov_mil": 8
+  },
+  {
+   "country": "Georgia",
+   "killed_gov_mil": 7
+  },
+  {
+   "country": "Indonesia",
+   "killed_gov_mil": 7
+  },
+  {
+   "country": "Angola",
+   "killed_gov_mil": 6
+  },
+  {
+   "country": "Egypt",
+   "killed_gov_mil": 6
+  },
+  {
+   "country": "Sierra Leone",
+   "killed_gov_mil": 6
+  },
+  {
+   "country": "Rwanda",
+   "killed_gov_mil": 6
+  },
+  {
+   "country": "Azerbaijan",
+   "killed_gov_mil": 5
+  },
+  {
+   "country": "Libya",
+   "killed_gov_mil": 5
+  },
+  {
+   "country": "Haiti",
+   "killed_gov_mil": 5
+  },
+  {
+   "country": "Peru",
+   "killed_gov_mil": 5
+  },
+  {
+   "country": "Nigeria",
+   "killed_gov_mil": 4
+  },
+  {
+   "country": "Yugoslavia",
+   "killed_gov_mil": 4
+  },
+  {
+   "country": "Venezuela",
+   "killed_gov_mil": 4
+  },
+  {
+   "country": "Somalia",
+   "killed_gov_mil": 4
+  },
+  {
+   "country": "Tajikistan",
+   "killed_gov_mil": 3
+  },
+  {
+   "country": "Ivory Coast",
+   "killed_gov_mil": 3
+  },
+  {
+   "country": "Democratic Republic of the Congo",
+   "killed_gov_mil": 3
+  },
+  {
+   "country": "Thailand",
+   "killed_gov_mil": 3
+  },
+  {
+   "country": "Central African Republic",
+   "killed_gov_mil": 3
+  },
+  {
+   "country": "Guatemala",
+   "killed_gov_mil": 3
+  },
+  {
+   "country": "Saudi Arabia",
+   "killed_gov_mil": 2
+  },
+  {
+   "country": "Bahrain",
+   "killed_gov_mil": 2
+  },
+  {
+   "country": "Gambia",
+   "killed_gov_mil": 2
+  },
+  {
+   "country": "Cameroon",
+   "killed_gov_mil": 2
+  },
+  {
+   "country": "China",
+   "killed_gov_mil": 2
+  },
+  {
+   "country": "South Africa",
+   "killed_gov_mil": 2
+  },
+  {
+   "country": "Nicaragua",
+   "killed_gov_mil": 2
+  },
+  {
+   "country": "Croatia",
+   "killed_gov_mil": 2
+  },
+  {
+   "country": "Honduras",
+   "killed_gov_mil": 2
+  },
+  {
+   "country": "Kyrgyzstan",
+   "killed_gov_mil": 1
+  },
+  {
+   "country": "Uruguay",
+   "killed_gov_mil": 1
+  },
+  {
+   "country": "Kenya",
+   "killed_gov_mil": 1
+  },
+  {
+   "country": "USA",
+   "killed_gov_mil": 1
+  },
+  {
+   "country": "Turkmenistan",
+   "killed_gov_mil": 1
+  },
+  {
+   "country": "Kazakhstan",
+   "killed_gov_mil": 1
+  },
+  {
+   "country": "Chad",
+   "killed_gov_mil": 1
+  },
+  {
+   "country": "South Sudan",
+   "killed_gov_mil": 1
+  },
+  {
+   "country": "Eritrea",
+   "killed_gov_mil": 1
+  },
+  {
+   "country": "Mozambique",
+   "killed_gov_mil": 1
+  },
+  {
+   "country": "Slovakia",
+   "killed_gov_mil": 1
+  },
+  {
+   "country": "Serbia",
+   "killed_gov_mil": 1
+  },
+  {
+   "country": "Ghana",
+   "killed_gov_mil": 1
+  },
+  {
+   "country": "Montenegro",
+   "killed_gov_mil": 1
+  },
+  {
+   "country": "Madagascar",
+   "killed_gov_mil": 1
+  },
+  {
+   "country": "Dominican Republic",
+   "killed_gov_mil": 1
+  },
+  {
+   "country": "Uganda",
+   "killed_gov_mil": 1
+  },
+  {
+   "country": "Ethiopia",
+   "killed_gov_mil": 1
+  },
+  {
+   "country": "Tunisia",
+   "killed_gov_mil": 1
+  },
+  {
+   "country": "Burundi",
+   "killed_gov_mil": 1
+  },
+  {
+   "country": "Burkina Faso",
+   "killed_gov_mil": 1
+  },
+  {
+   "country": "Paraguay",
+   "killed_gov_mil": 1
+  },
+  {
+   "country": "Panama",
+   "killed_gov_mil": 1
+  },
+  {
+   "country": "Tanzania",
+   "killed_gov_mil": 1
+  },
+  {
+   "country": "Belarus",
+   "killed_gov_mil": 1
+  },
+  {
+   "country": "Nepal",
+   "killed_gov_mil": 1
+  },
+  {
+   "country": "East Timor",
+   "killed_gov_mil": 1
+  },
+  {
+   "country": "Zimbabwe",
+   "killed_gov_mil": 1
+  },
+  {
+   "country": "Ecuador",
+   "killed_gov_mil": 1
+  }
+ ]
+}
