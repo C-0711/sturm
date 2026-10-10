@@ -26,7 +26,7 @@
       <div class="lang-nav">
         {%- if page.translations %}
         {%- for lang in page.translations %}
-        <a href="{{ page.translations[lang] | relative_url }}" class="lang-link{% if lang == page.lang %} current{% endif %}">{{ lang | upcase }}</a>
+        <a href="{{ lang[1] | relative_url }}" class="lang-link{% if lang[0] == page.lang %} current{% endif %}">{{ lang[0] | upcase }}</a>
         {%- endfor %}
         {%- endif %}
       </div>

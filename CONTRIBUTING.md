@@ -10,7 +10,9 @@ Danke, dass du beitragen willst. STURM lebt von Contributor:innen. Lies die vier
 4. **PR gegen `main`** mit einer Kurzbegründung: Warum ist der Fall relevant für dieses Wiki?
 5. Maintainer prüfen auf Belegbarkeit; dann wird gemerged.
 
-## Die Dossier-Vorlage
+## Die Dossier-Vorlage (mit Zitierweise wie in einer Doktorarbeit)
+
+Zitate laufen über **kramdown-Fußnoten**: Im Text `[^1]`, am Ende die Definition `[^1]: Quelle...`. Der Renderer baut daraus automatisch hochgestellte Verweiszahlen und den Fußnotenblock „Fußnoten" am Seitenende. Damit jede Quelle im Fließtext steht UND das Quellenverzeichnis entsteht, ist die Fußnote selbst die vollständige Quellenangabe (Titel, Datum, URL, Abrufdatum).
 
 ```markdown
 ---
@@ -28,24 +30,32 @@ translations:
 <div class="meta-line"><span class="tag">Land</span> ... <span class="tag">Thema</span> ... <span class="tag red">Status</span> ...</div>
 
 ## Kurzfassung
-3–5 Sätze, die einzeln belegbar sind.
+3–5 Sätze, jede behauptungsrelevante Aussage mit Fußnote: `...verboten.[^1]`
 
 ## Belege
-Links zu Primärquellen (Gerichtsurteile, Behördendokumente, etablierte Recherchen).
+Links zu Primärquellen — im Text als Fußnoten[^2], hier zusätzlich als Liste mit Kommentar.
 
 ## Zeitleiste
-- **DD.MM.YYYY** — datiertes Faktum
+- **DD.MM.YYYY** — datiertes Faktum[^1]
 
 ## Lügen ausräumen
-**Falsch:** „<Übertreibung, die über den Fall kursiert>." — <Korrektur mit Beleg>.
+**Falsch:** „<Übertreibung, die über den Fall kursiert>." — <Korrektur mit Beleg[^3]>.
 Diese Sektion korrigiert Übertreibungen ALLER Seiten — einschließlich der eigenen.
 
 ## Offene Fragen
 Was unbelegt bleibt. Ehrlichkeit schlägt Vollständigkeit.
 
-## Quellen
-1. [Titel](URL) — Datum
+## Quellenverzeichnis
+
+[^1]: Autor/Institution: *Titel*, Ort/Datum. Online: <URL> (abgerufen TT.MM.JJJJ).
+[^2]: ...
 ```
+
+**Zitierregeln:**
+- Fußnotennummerierung einfach `[^1]`, `[^2]`, ... je Artikel (kramdown nummeriert selbst).
+- Vollständige Angabe: **Autor/Institution, Titel (kursiv), Datum, URL, Abrufdatum** — wie im Musterartikel [`de/faelle/compact-verbot.md`](de/faelle/compact-verbot.md).
+- Jede Zahl, jedes Zitat, jedes datierte Faktum im Fließtext trägt eine Fußnote.
+- Sekundärquellen nur, wenn Primärquellen fehlen — dann kenntlich machen („zitiert nach").
 
 ## Wo stehen die Dateien?
 

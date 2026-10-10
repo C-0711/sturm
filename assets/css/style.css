@@ -156,6 +156,46 @@ hr.sep{border:none;border-top:2px dashed var(--line);margin:44px 0}
 .footer-meta{font-family:var(--mono);font-size:12.5px;margin:10px 0 0}
 .footer-note{font-size:12.5px;color:#777;padding-bottom:30px;margin:8px 0 0}
 
+/* ---- Fußnoten / Zitate (Doktorarbeiten-Stil) ---- */
+.content sup.fn a,
+.footnotes .footnote-back { text-decoration: none; }
+sup.fn { margin-left: 1px; }
+.footnotes {
+  margin-top: 48px;
+  padding-top: 18px;
+  border-top: 3px solid var(--ink);
+}
+.footnotes h2,
+.quellenverzeichnis-title {
+  font-size: 20px !important;
+  border-bottom: none !important;
+  margin: 0 0 14px !important;
+  padding: 0 !important;
+  letter-spacing: .02em;
+}
+.footnotes ol { padding-left: 22px; margin: 0; }
+.footnotes li {
+  font-size: 14.5px;
+  line-height: 1.55;
+  color: #333;
+  margin-bottom: 10px;
+  padding-left: 4px;
+}
+.footnotes li::marker {
+  font-family: var(--mono);
+  font-weight: 700;
+  color: var(--accent);
+}
+.footnotes p { margin: 0; display: inline; }
+sup a,
+sup.fn {
+  font-family: var(--mono);
+  font-size: .72em;
+  font-weight: 700;
+  color: var(--accent);
+}
+sup a:hover { text-decoration: underline; }
+
 @media (max-width:720px){
   .header-inner{gap:12px}
   .site-nav{order:3;width:100%;margin-left:0;padding-bottom:10px}
