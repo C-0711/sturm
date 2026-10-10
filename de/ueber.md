@@ -10,6 +10,8 @@ translations:
 
 <p class="lead">STURM ist ein offenes, kollaboratives Wiki gegen Zensur, für digitale Souveränität und gegen die Kontrolle durch Konzerne und Staaten. Es wird von einer Community getragen; die Initiative kam von einer Person, die sich „Mastermind" nennt.</p>
 
+> **Die vollständige Missionserklärung** — was wir wollen, was wir nicht sind, warum jetzt — steht auf der eigenen Seite: **[Mission](/de/mission/)**. Dort auch unsere Technologie-Philosophie: statisch, tracker-frei, öffentliches Repository.
+
 ## Warum dieses Wiki existiert
 
 Zensur funktioniert heute selten mit Zensurbeamten. Sie funktioniert mit Nutzungsbedingungen, Algorithmus-Feeds, Plattform-Sperren, SLAPP-Klagen, Gesetzen mit doppelsinnigen Titeln und der Angst, die entsteht, wenn Beispiele durchsickern. Dieses Wiki dokumentiert diese Beispiele — **mit Quellen**. Nicht um zu schockieren, sondern um Handwerkzeug zu sein: für Debatten, für Recherchen, für die eigene Entscheidung, wem man vertraut.

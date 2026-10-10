@@ -14,6 +14,7 @@ translations:
   <h1>Gegen Zensur.<br>Für <span class="redact">Freiheit</span>.<br>Gegen Kontrolle.</h1>
   <p class="sub">Erschreckende, belegte Fälle von Zensur, Sprachkontrolle und Überwachung — aus Deutschland, Frankreich, Spanien, Portugal, den USA und Brasilien. Und ein Leitfaden, wie du unabhängig wirst von Datenkraken und Multinationals.</p>
   <div class="btn-row">
+    <a class="btn" href="/de/mission/">Unsere Mission</a>
     <a class="btn red" href="/de/">Die Fälle ansehen</a>
     <a class="btn" href="/de/unabhaengig-werden/">Unabhängig werden</a>
     <a class="btn" href="/de/mitmachen/">Mitmachen</a>
