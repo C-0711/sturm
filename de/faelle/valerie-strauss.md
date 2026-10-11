@@ -14,7 +14,7 @@ translations:
 
 ## Kurzfassung
 
-Das „Gesetz zur Verhinderung fremder Einflussnahmen in Frankreich" (loi n° 2024-850 du 25 juillet 2024, initiiert nach dem Nunez-Bericht) erweitert die Befugnisse gegen Desinformations- und Manipulationskampagnen — formal gegen „ausländische" Akteure. Der Conseil d'État, der das Gesetzesvorhaben prüfte, kritisierte in seinem Gutachten: Der Entwurf geht über ausländische Einflussnahmen hinaus und sollte ehrlicher „Projet de loi visant à renforcer la protection de la vie démocratique" heißen. Zivilrechtler und RSF warnten, dass die口市lichen Definitionen von „Desinformation" auch inländische kritische Berichterstattung treffen können — abhängig davon, wer die Definition setzt. Das Gesetz trat am 26. Juli 2024 in Kraft; die Umsetzungsdekrete und die erste Praxis stehen noch aus.
+Das „Gesetz zur Verhinderung fremder Einflussnahmen in Frankreich" (loi n° 2024-850 du 25 juillet 2024, initiiert nach dem Nunez-Bericht) erweitert die Befugnisse gegen Desinformations- und Manipulationskampagnen — formal gegen „ausländische" Akteure. Der Conseil d'État, der das Gesetzesvorhaben prüfte, kritisierte in seinem Gutachten: Der Entwurf geht über ausländische Einflussnahmen hinaus und sollte ehrlicher „Projet de loi visant à renforcer la protection de la vie démocratique" heißen. Zivilrechtler und RSF warnten, dass die öffentlichen Definitionen von „Desinformation" auch inländische kritische Berichterstattung treffen können — abhängig davon, wer die Definition setzt. Das Gesetz trat am 26. Juli 2024 in Kraft; die Umsetzungsdekrete und die erste Praxis stehen noch aus.
 
 ## Belege
 

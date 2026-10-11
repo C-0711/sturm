@@ -201,3 +201,64 @@ sup a:hover { text-decoration: underline; }
   .site-nav{order:3;width:100%;margin-left:0;padding-bottom:10px}
   .hero{padding:40px 0 20px}
 }
+
+/* ---------- Evidence inventory / Beweis-Inventar ---------- */
+.inventory {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 14px;
+  margin: 24px 0 8px;
+}
+.inventory-item {
+  border: 1px solid var(--line);
+  background: var(--card);
+  padding: 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+.inventory-item .inv-id {
+  font-family: var(--mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.04em;
+  color: var(--muted);
+}
+.inventory-item img {
+  width: 100%;
+  height: 170px;
+  object-fit: cover;
+  object-position: top;
+  display: block;
+  background: var(--paper);
+}
+.inventory-item .inv-desc {
+  font-size: 0.88rem;
+  color: var(--ink);
+  line-height: 1.4;
+}
+.inventory-item .inv-src {
+  font-size: 0.75rem;
+  color: var(--muted);
+}
+figure.evidence {
+  margin: 24px 0;
+}
+figure.evidence img {
+  width: 100%;
+  display: block;
+  border: 1px solid var(--line);
+}
+figure.evidence figcaption {
+  font-size: 0.78rem;
+  color: var(--muted);
+  margin-top: 6px;
+  line-height: 1.45;
+}
+figure.evidence figcaption .inv-id {
+  font-family: var(--mono);
+  letter-spacing: 0.04em;
+  color: var(--accent);
+}
+@media (max-width:720px){
+  .inventory { grid-template-columns: 1fr 1fr; }
+}

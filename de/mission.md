@@ -57,7 +57,7 @@ STURM ist eine **statische Seite** (Jekyll, gebaut auf GitHub Pages). Das bedeut
 
 Diese Seite kann dich nicht überwachen — **nicht, weil wir es versprechen, sondern weil die Architektur es nicht hergibt.**
 
-### Öffentliches Repository statt黑-box
+### Öffentliches Repository statt Blackbox
 
 Der gesamte Code und alle Inhalte liegen [öffentlich auf GitHub](https://github.com/C-0711/sturm): jede Änderung sichtbar in der Git-Historie, jede Quelle prüfbar, jede Korrektur nachvollziehbar. Es gibt keine Redaktion im Hinterzimmer — Beiträge laufen über Pull Requests, die jeder lesen kann.
 
