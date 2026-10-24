@@ -28,6 +28,7 @@ After Elon Musk refused to block accounts targeted by Moraes' "digital militia" 
 
 ## Sources
 
-1. [Wikipedia: Blocking of X in Brazil (with primary sources)](https://en.wikipedia.org/wiki/Blocking_of_X_in_Brazil)
-2. [AP News](https://apnews.com/article/brazil-supreme-court-x-social-media-alexandre-de-moraes-free-speech-3df6deba4d34a6bbddfde77cbf5719b9)
-3. [BBC](https://www.bbc.com/news/articles/c5y06vzk3yjo)
+1. [STF (Brazilian Supreme Federal Tribunal): "STF determina suspensão do X, antigo Twitter, em todo o território nacional"](https://noticias.stf.jus.br/postsnoticias/stf-determina-suspensao-do-x-antigo-twitter-em-todo-o-territorio-nacional-2/) — the 30.08.2024 order itself, from the court.
+2. [STF press release on the digital-militias inquiry](https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=531677&ori=1) — the inquiry into which X and Musk were placed.
+3. [U.S. Treasury press release: "Treasury Sanctions Alexandre de Moraes"](https://home.treasury.gov/news/press-releases/sb0211) — the U.S. government's own document on the case (sanctions, later lifted) — official primary source on the international dimension.
+4. *Indication (press, not evidence):* [AP News](https://apnews.com/article/brazil-supreme-court-x-social-media-alexandre-de-moraes-free-speech-3df6deba4d34a6bbddfde77cbf5719b9), [BBC](https://www.bbc.com/news/articles/c5y06vzk3yjo), [Wikipedia: Blocking of X in Brazil](https://en.wikipedia.org/wiki/Blocking_of_X_in_Brazil) — press/secondary; the R$18.35M / ~R$28M / block-lift figures should be verified against the STF orders and ANPD/court records, which is where press got them.

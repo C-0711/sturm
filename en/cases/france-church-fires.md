@@ -47,6 +47,10 @@ At the same time, a viral claim has circulated for years that "400+ churches wer
 
 **False 4 (opposite direction):** "Anti-Christian crime is a myth." — False: 843 officially recorded acts, one murdered Christian in 2025, a nearly burned-down church in Saint-Omer 2024, 94 arsons across Europe. The trend is real — only the viral magnitudes are not.
 
+## Case register
+
+The full case register verified by 9 parallel research tracks (840 cases, 11 countries, cross-checked against OIDAC, with exclusion list) has its own page: **[Case Register 2024–2026](/en/case-register/)** — including raw data (JSON) for recomputation.
+
 ## Open questions
 
 - France announced an **annual public report** on anti-religious acts for the first time in 2026.[^1] Will it publish per-country arson figures — or will they stay buried in aggregate categories?

@@ -22,6 +22,6 @@ In spring 2024 Stefan Niehoff posted the meme on X. Habeck filed a criminal comp
 
 ## Sources
 
-1. [LTO: background of the raid](https://www.lto.de/recht/nachrichten/n/hausdurchsuchung-strafantrag-robert-habeck-beleidigung-schwachkopf)
-2. [ZDFheute on the court case](https://www.zdfheute.de/politik/deutschland/habeck-beleidigung-schwachkopf-geldstrafe-100.html)
-3. [BR24](https://www.br.de/nachrichten/bayern/nach-schwachkopf-post-prozess-am-amtsgericht-beginnt,UoNpVRx)
+[^1]: Bamberg public prosecutor's office, press release PM 45/2024 (original PDF): [„Beleidigung zu Lasten des Bundeswirtschaftsministers Dr. Habeck im Internet – Wohnungsdurchsuchung im Landkreis Haßberge"](https://www.justiz.bayern.de/media/images/behoerden-und-gerichte/staatsanwaltschaften/bamberg/pm_45-2024-_sta_bamberg_-_wohnungsdurchsuchung_wg_beleidigung_zu_lasten_dr_habeck.pdf), justiz.bayern.de, accessed 11 Oct 2026.
+[^2]: Local Court (AG) Bamberg, order of 06.08.2024, case no. 3 Gs 1126/24 (1108 Js 11578/24), [record via dejure.org](https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=AG%20Bamberg&Datum=06.08.2024&Aktenzeichen=3%20Gs%201126%2F24), accessed 11 Oct 2026.
+[^3]: *Indication (press, not evidence):* [LTO](https://www.lto.de/recht/nachrichten/n/hausdurchsuchung-strafantrag-robert-habeck-beleidigung-schwachkopf), [ZDFheute](https://www.zdfheute.de/politik/deutschland/habeck-beleidigung-schwachkopf-geldstrafe-100.html), [BR24](https://www.br.de/nachrichten/bayern/nach-schwachkopf-post-prozess-am-amtsgericht-beginnt,UoNpVRx) — legal reporting; dates, day-fines and case status are verified against the authority/court documents above, not the press.

@@ -22,6 +22,6 @@ The letter of 26 August 2024 to Chairman Jim Jordan contains two admissions: (1)
 
 ## Sources
 
-1. [BBC (26.08.2024)](https://www.bbc.com/news/articles/czxlpjlgdzjo)
-2. [Guardian](https://www.theguardian.com/technology/article/2024/aug/27/mark-zuckerberg-says-white-house-pressured-facebook-to-censor-covid-19-content)
-3. Dossier: [Murthy v. Missouri](/en/usa/murthy/)
+1. [Original letter (PDF), 26 Aug 2024](https://www.americanrhetoric.com/speeches/PDFFiles/Mark-Zuckerberg-Letter-on-Govt-Censorship.pdf) — Zuckerberg to Jim Jordan (Chairman, House Judiciary Committee); archived with the committee, cited with date in the [committee follow-up letter of 26 Feb 2025 (PDF)](https://judiciary.house.gov/sites/evo-subsites/republicans-judiciary.house.gov/files/evo-media-document/2025-02-26-jdj-to-zuckerberg-meta-re-subpoena.pdf).
+2. Dossier: [Murthy v. Missouri](/en/usa/murthy/)
+3. *Indication (press, not evidence):* [BBC (26.08.2024)](https://www.bbc.com/news/articles/czxlpjlgdzjo), [Guardian](https://www.theguardian.com/technology/article/2024/aug/27/mark-zuckerberg-says-white-house-pressured-facebook-to-censor-covid-19-content) — every figure in this dossier is verified against the original letter, not the press.

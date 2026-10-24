@@ -34,9 +34,13 @@ Im Frühjahr 2024 postete der bayerische Rentner Stefan Niehoff auf X ein Meme m
 - Wird § 185 StGB (Beleidigung) reformiert? Die Justizministerkonferenz diskutiert.
 - Wie viele Durchsuchungen wegen Online-Beleidigungen fanden 2024/2025 statt? (BKA-Lagebild, offene Datenfrage.)
 
+## Belege
+
+- [Staatsanwaltschaft Bamberg, Pressemitteilung (Original-PDF): „Beleidigung zu Lasten des Bundeswirtschaftsministers Dr. Habeck im Internet – Wohnungsdurchsuchung im Landkreis Haßberge"](https://www.justiz.bayern.de/media/images/behoerden-und-gerichte/staatsanwaltschaften/bamberg/pm_45-2024-_sta_bamberg_-_wohnungsdurchsuchung_wg_beleidigung_zu_lasten_dr_habeck.pdf) — die Primärquelle der Durchsuchung, von der Behörde selbst.[^1]
+- [AG Bamberg, Beschluss vom 06.08.2024 — Az. 3 Gs 1126/24 (1108 Js 11578/24)](https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=AG%20Bamberg&Datum=06.08.2024&Aktenzeichen=3%20Gs%201126%2F24) — Gerichtsdokument des Durchsuchungsbeschlusses, mit Volltext-Verweis bei dejure.org.[^2]
+
 ## Quellen
 
-1. [LTO: „'Schwachkopf'-Meme: Hintergründe der Hausdurchsuchung"](https://www.lto.de/recht/nachrichten/n/hausdurchsuchung-strafantrag-robert-habeck-beleidigung-schwachkopf)
-2. [ZDFheute: „Habeck-Beleidigung: Gericht sieht mehrere Vergehen"](https://www.zdfheute.de/politik/deutschland/habeck-beleidigung-schwachkopf-geldstrafe-100.html)
-3. [BR24: „Nach 'Schwachkopf'-Post: Prozess am Amtsgericht beginnt"](https://www.br.de/nachrichten/bayern/nach-schwachkopf-post-prozess-am-amtsgericht-beginnt,UoNpVRx)
-4. [Wikipedia: „Schwachkopf-Affäre"](https://de.wikipedia.org/wiki/Schwachkopf-Aff%C3%A4re) (mit weiteren Quellen)
+[^1]: Staatsanwaltschaft Bamberg, Pressemitteilung PM 45/2024 (PDF), justiz.bayern.de, abgerufen 11.10.2026.
+[^2]: Amtsgericht Bamberg, Beschluss v. 06.08.2024, Az. 3 Gs 1126/24 (StA Bamberg 1108 Js 11578/24), Nachweis über dejure.org, abgerufen 11.10.2026.
+[^3]: *Hinweis (Presse, kein Beleg):* [LTO](https://www.lto.de/recht/nachrichten/n/hausdurchsuchung-strafantrag-robert-habeck-beleidigung-schwachkopf), [ZDFheute](https://www.zdfheute.de/politik/deutschland/habeck-beleidigung-schwachkopf-geldstrafe-100.html), [BR24](https://www.br.de/nachrichten/bayern/nach-schwachkopf-post-prozess-am-amtsgericht-beginnt,UoNpVRx), [Wikipedia: „Schwachkopf-Affäre"](https://de.wikipedia.org/wiki/Schwachkopf-Aff%C3%A4re) — Berichterstattung; Datum (05.11.2024), Tagessätze (90) und Verfahrensausgang sind über die Behörden-/Gerichtsdokumente zu verifizieren, nicht über die Presse.

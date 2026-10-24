@@ -55,7 +55,19 @@ Was unbelegt bleibt. Ehrlichkeit schlägt Vollständigkeit.
 - Fußnotennummerierung einfach `[^1]`, `[^2]`, ... je Artikel (kramdown nummeriert selbst).
 - Vollständige Angabe: **Autor/Institution, Titel (kursiv), Datum, URL, Abrufdatum** — wie im Musterartikel [`de/faelle/compact-verbot.md`](de/faelle/compact-verbot.md).
 - Jede Zahl, jedes Zitat, jedes datierte Faktum im Fließtext trägt eine Fußnote.
-- Sekundärquellen nur, wenn Primärquellen fehlen — dann kenntlich machen („zitiert nach").
+
+**Quellen-Hierarchie (verbindlich):**
+
+| Stufe | Was | Status |
+|---|---|---|
+| **Primär** | Gerichte, Gesetze, Amtsblätter, Ministerien, Parlamente, Behördenstatistiken, Original-Dokumente, Akten, E2E-archives (Weyland, VPN-Snapshots) | ✅ Beleg |
+| **Sekundär-Index** | NGOs & Watchdogs mit eigener Dokumentationsmethode (OIDAC, RSF, CPJ, V-Dem, Citizen Lab, Amnesty, EDRi, PEN) | ✅ Beleg für ihre eigene Erhebung, mit Methodik-Angabe |
+| **Hinweis** | Mainstream-Medien (BBC, Reuters, AP, LA Times, Guardian …), Wikipedia | ⚠️ **keine Wahrheitsquelle** — nur als Fundstelle zulässig: sie müssen auf die Primärquelle führen (Aktenzeichen, URL des Gerichts, Datum). Sonst Strich. |
+| **Verboten** | Unbekannte Blogs, Screenshots ohne Herkunft, „Man weiß doch …" | ❌ |
+
+- **Mainstream-Medien und Wikipedia sind keine sichere Wahrheitsquelle.** Sie sind Berichterstattung mit Redaktionslinie und Fehlerquote — für ein Wiki, das genau diese Verflechtung dokumentiert, wäre es zirkulär, Presse über Presse zu belegen. Eine Meldung (BBC, Reuters …) **kann** als *Hinweis* stehen bleiben, wenn das Dossier die dahinterliegende Primärquelle nennt und prüft (Gerichtsurteil, Gesetzestext, Amtsblatt). Im Zweifel: Primärquelle suchen, sonst als unbelegt in „Offene Fragen".
+- Medienberichte, die als Hinweis bleiben, werden im Quellenverzeichnis als „Hinweis: …" gekennzeichnet.
+- Prüfpflicht: Wer eine Zahl aus einer Meldung übernimmt, öffnet das Original (Urteil, Statistik, Protokoll) und verifizert die Zahl dort — nicht umgekehrt.
 
 ## Wo stehen die Dateien?
 

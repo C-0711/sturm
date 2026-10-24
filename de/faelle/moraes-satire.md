@@ -18,9 +18,15 @@ Als Teil der X-Blockade vom 30.08.2024 drohte Richter Alexandre de Moraes Nutzer
 
 ## Belege
 
-- [LA Times: „In feud with Musk, Brazilian justice restricts access to X"](https://enewspaper.latimes.com/infinity/article_share.aspx?guid=c8f44e6b-67e5-4931-974e-f5e1c1fcc546) — „Alexandre de Moraes also sets $8,900 fine for those using VPNs to reach the platform"
-- [Al Jazeera: „X attempts to pay fine in bid to resume service in Brazil"](https://www.aljazeera.com/news/2024/10/5/social-media-site-x-attempts-to-pay-fine-in-bid-to-resume-service-in-brazil)
+- [STF (Oberster Bundesgerichtshof Brasiliens), offizielle Meldung: „STF determina suspensão do X, antigo Twitter, em todo o território nacional"](https://noticias.stf.jus.br/postsnoticias/stf-determina-suspensao-do-x-antigo-twitter-em-todo-o-territorio-nacional-2/) — die Anordnung von Moraes vom 30.08.2024 samt Tagesbuße für Umgehung, vom Gericht selbst.[^1]
+- [STF-Pressemitteilung: „STF inclui dono da rede social X no inquérito das milícias digitais"](https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=531677&ori=1) — das zugrundeliegende Ermittlungsverfahren („Milícias Digitais"), in das Musk und X eingebunden wurden.[^2]
 - Dossier: [Brasilien blockiert X](/de/faelle/x-block-brasilien/)
+- *Hinweis:* [LA Times](https://enewspaper.latimes.com/infinity/article_share.aspx?guid=c8f44e6b-67e5-4931-974e-f5e1c1fcc546) („$8,900 fine for those using VPNs"), [Al Jazeera](https://www.aljazeera.com/news/2024/10/5/social-media-site-x-attempts-to-pay-fine-in-bid-to-resume-service-in-brazil) — Presseberichte; die Anordnung selbst ist die Quelle der Zahl.
+
+## Quellen
+
+[^1]: Supremo Tribunal Federal, „STF determina suspensão do X, antigo Twitter, em todo o território nacional", noticias.stf.jus.br, 30.08.2024, abgerufen 11.10.2026.
+[^2]: Supremo Tribunal Federal, „STF inclui dono da rede social X no inquérito das milícias digitais", portal.stf.jus.br, abgerufen 11.10.2026.
 
 ## Lügen ausräumen
 

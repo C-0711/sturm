@@ -8,7 +8,11 @@ translations:
 
 # Unsere Mission
 
-<p class="lead">Freiheit ist kein Zustand. Freiheit ist eine Praxis — und sie beginnt damit, dass niemand unhinterfragt bestimmt, was du sagen, lesen und wissen darfst. STURM existiert, um diese Praxis mit Belegen zu wappnen.</p>
+<p class="lead">STURM ist die Plattform, die die Lügen der Mainstream-Medien findet — und das, was sie für Regierungen zudecken. Freiheit ist kein Zustand. Freiheit ist eine Praxis — und sie beginnt damit, dass niemand unhinterfragt bestimmt, was du sagen, lesen und wissen darfst. Wir wappnen diese Praxis mit Belegen.</p>
+
+## Wer wir sind
+
+Mainstream-Medien sind keine Wahrheitsquelle; sie sind Redaktionen mit Redaktionslinie, Eigeninteressen und redaktioneller Nähe zu den Regierungen, über die sie berichten. Für uns sind sie ein **Untersuchungsgegenstand**: Wir prüfen ihre Berichterstattung gegen die Primärquellen — Gerichte, Gesetze, Amtsblätter, Parlamente, Behörden — und dokumentieren die Lücken, Übertreibungen und vertuschten Zusammenhänge. Und weil Glaubwürdigkeit die einzige Währung ist, die ein Anti-Zensur-Projekt hat, räumen wir mit Lügen in **beide** Richtungen auf.
 
 ## Was wir wollen
 

@@ -35,5 +35,6 @@ Das Netzwerkdurchsetzungsgesetz (NetzDG, in Kraft 01.01.2017) drohte Plattformen
 
 ## Quellen
 
-1. [HateAid](https://hateaid.org/gemischte-bilanz-digital-services-act-loest-netzdg-ab/)
-2. [Legal-Krüger-Vergleich](https://legal-krueger.de/die-huter-des-internets-netzdg-und-dsa-im-vergleich-erklart/)
+[^1]: *Primär:* [Gesetzestext (amtlich): NetzDG, gesetze-im-internet.de](https://www.gesetze-im-internet.de/netzdg/BJNR335210017.html) — inkl. der Fußnote zur Rechtslage (Anwendung § 1 Abs. 2a; Textnachweis ab 01.10.2017). [Original-BGBl (PDF, BMJ)](https://www.bmjv.de/SharedDocs/Downloads/DE/Gesetzgebung/BGBl/BGBl_NetzDG.pdf?__blob=publicationFile&v=3) — Bundesgesetzblatt Teil I Nr. 61.
+[^2]: *Hinweis (Presse/NGO, kein Beleg):* [hateAid: „Gemischte Bilanz: Digital Services Act löst NetzDG ab"](https://hateaid.org/gemischte-bilanz-digital-services-act-loest-netzdg-ab/), [legal-krueger.de zum NetzDG/DSA-Vergleich](https://legal-krueger.de/die-huter-des-internets-netzdg-und-dsa-im-vergleich-erklart/) — Einordnung; die Gesetzeslage wird über die amtlichen Quellen in [^1] geprüft.
+

@@ -18,9 +18,8 @@ Der Brief vom 26.08.2024 an Jim Jordan (Vorsitzender des House Judiciary Committ
 
 ## Belege
 
-- [BBC: „Zuckerberg regrets bowing to Biden 'pressure' over Covid"](https://www.bbc.com/news/articles/czxlpjlgdzjo) (26.08.2024)
-- [Guardian: „Mark Zuckerberg says White House pressured Facebook to censor Covid-19 content"](https://www.theguardian.com/technology/article/2024/aug/27/mark-zuckerberg-says-white-house-pressured-facebook-to-censor-covid-19-content)
-- Original-Brief: veröffentlicht vom House Judiciary Committee; zitiert in BBC/Guardian (s. u.).
+- [Urschrift des Briefes (Original-PDF), 26.08.2024](https://www.americanrhetoric.com/speeches/PDFFiles/Mark-Zuckerberg-Letter-on-Govt-Censorship.pdf) — Brief Mark Zuckerbergs an Jim Jordan (Vorsitzender, House Judiciary Committee); beim Ausschuss archiviert, [Nachfolge-Schreiben 26.02.2025 (PDF)](https://judiciary.house.gov/sites/evo-subsites/republicans-judiciary.house.gov/files/evo-media-document/2025-02-26-jdj-to-zuckerberg-meta-re-subpoena.pdf) zitiert den Brief mit Datum.
+- *Hinweis:* [BBC: „Zuckerberg regrets bowing to Biden 'pressure' over Covid"](https://www.bbc.com/news/articles/czxlpjlgdzjo) (26.08.2024) und [Guardian: „Mark Zuckerberg says White House pressured Facebook to censor Covid-19 content"](https://www.theguardian.com/technology/article/2024/aug/27/mark-zuckerberg-says-white-house-pressured-facebook-to-censor-covid-19-content) — Berichterstattung; jede Zahl wird hier nach dem Original-PDF belegt, nicht nach der Presse.
 
 ## Lügen ausräumen
 

@@ -8,7 +8,11 @@ translations:
 
 # Our Mission
 
-<p class="lead">Freedom is not a state. Freedom is a practice — and it begins with no one unchallenged deciding what you may say, read, and know. STURM exists to arm that practice with evidence.</p>
+<p class="lead">STURM is the platform that finds the lies of the mainstream media — and what they cover up for governments. Freedom is not a state. Freedom is a practice — and it begins with no one unchallenged deciding what you may say, read, and know. We arm that practice with evidence.</p>
+
+## Who we are
+
+Mainstream media are not a source of truth; they are newsrooms with editorial lines, interests and proximity to the governments they report on. To us they are a **subject of investigation**: we check their reporting against the primary sources — courts, statutes, gazettes, parliaments, agencies — and document the gaps, exaggerations and covered-up connections. And because credibility is the only currency an anti-censorship project has, we clear up lies in **both** directions.
 
 ## What we want
 

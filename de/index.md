@@ -11,7 +11,7 @@ translations:
 
 # Fälle: Erschreckende Beispiele, belegt
 
-<p class="lead">Jeder Fall ist ein Dossier: Was behauptet wird, was belegt ist, was die Kritik sagt — und was offen bleibt. Wir dokumentieren Fälle aus ganz Europa und Amerika, wo Staaten und Plattformen gegen Redende vorgegangen sind.</p>
+<p class="lead">Wir finden die Lügen der Mainstream-Medien — und das, was sie für Regierungen zudecken. Jeder Fall ist ein Dossier: Was behauptet wird, was belegt ist, was die Kritik sagt — und was offen bleibt. Wir dokumentieren Fälle aus ganz Europa und Amerika, wo Staaten und Plattformen gegen Redende vorgegangen sind.</p>
 
 <div class="meta-line"><span class="tag red">Standard</span> Jeder Artikel: Kurzfassung → Belege → Zeitleiste → Lügen ausräumen → offene Fragen → Quellen.</div>
 

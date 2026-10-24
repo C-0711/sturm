@@ -22,5 +22,5 @@ The Network Enforcement Act (NetzDG, in force 1 January 2017) threatened platfor
 
 ## Sources
 
-1. [HateAid: mixed verdict on DSA replacing NetzDG](https://hateaid.org/gemischte-bilanz-digital-services-act-loest-netzdg-ab/)
-2. [Legal comparison NetzDG/DSA](https://legal-krueger.de/die-huter-des-internets-netzdg-und-dsa-im-vergleich-erklart/)
+[^1]: *Primary:* [Statutory text (official): NetzDG, gesetze-im-internet.de](https://www.gesetze-im-internet.de/netzdg/BJNR335210017.html) — including the official footnote on its legal status (application per § 1 Abs. 2a; text in force from 01.10.2017). [Original Federal Gazette (PDF, BMJ)](https://www.bmjv.de/SharedDocs/Downloads/DE/Gesetzgebung/BGBl/BGBl_NetzDG.pdf?__blob=publicationFile&v=3) — Bundesgesetzblatt Part I No. 61.
+[^2]: *Indication (press/NGO, not evidence):* [HateAid: mixed verdict on DSA replacing NetzDG](https://hateaid.org/gemischte-bilanz-digital-services-act-loest-netzdg-ab/), [legal comparison NetzDG/DSA](https://legal-krueger.de/die-huter-des-internets-netzdg-und-dsa-im-vergleich-erklart/) — analysis; the legal status is checked against the official sources in [^1].

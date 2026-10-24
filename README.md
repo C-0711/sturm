@@ -1,9 +1,9 @@
 # STURM — sturm.wtf
 
-> Gegen Zensur. Für Souveränität. Gegen Kontrolle durch Konzerne und Staaten.
-> Against censorship. For sovereignty. Against control by corporations and states.
+> Die Plattform gegen die Lügen der Mainstream-Medien — und das, was sie für Regierungen zudecken.
+> The platform against the lies of the mainstream media — and what they cover up for governments.
 
-Ein kollaboratives Wiki, das belegte Fälle von Zensur, Sprachkontrolle und Überwachung sammelt — und zeigt, wie man unabhängig wird. **Jeder Artikel ist ein Dossier: Behauptung → Beleg → Zeitleiste → Lügen ausräumen → Quellen.**
+Ein kollaboratives Wiki, das belegte Fälle von Zensur, Sprachkontrolle und Überwachung sammelt — und zeigt, wie man unabhängig wird. **Jeder Artikel ist ein Dossier: Behauptung → Beleg → Zeitleiste → Lügen ausräumen → Quellen.** Belegt wird mit Primärquellen (Gerichte, Gesetze, Amtsblätter), nicht mit Presse.
 
 ## Sektionen
 
@@ -29,6 +29,7 @@ Der Initiator nennt sich **Mastermind** — absichtlich ohne Namen und Links zu 
 2. **„Lügen ausräumen" ist Pflicht** — auch gegen die eigene Position. Ein Dossier, das nur eine Seite bestätigt, ist Propaganda.
 3. **Keine Parteinahme.** Zensur von links, rechts, staatlich, privat — alles kommt vor, wenn belegt.
 4. **Keine Verschwörungsbehauptungen ohne Beleg.** „Zeig die E-Mails, den Gerichtsbeschluss, den Investigativbericht."
+5. **Mainstream-Medien und Wikipedia sind keine Wahrheitsquelle.** Belegt wird mit Primärquellen (Gerichte, Gesetze, Amtsblätter, Ministerien, Parlamente) oder mit Watchdog-Erhebungen, die ihre Methode offenlegen (RSF, CPJ, OIDAC, V-Dem, Citizen Lab, EDRi). Medienberichte (BBC, Reuters, AP …) bleiben nur als *Hinweis* mit Kennzeichnung — jede Zahl wird in der Primärquelle geprüft. Details: [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Technik
 

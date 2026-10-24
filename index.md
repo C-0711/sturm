@@ -10,9 +10,9 @@ translations:
 ---
 
 <div class="hero">
-  <p class="kicker">sturm.wtf — Das Wiki gegen Zensur</p>
-  <h1>Gegen Zensur.<br>Für <span class="redact">Freiheit</span>.<br>Gegen Kontrolle.</h1>
-  <p class="sub">Erschreckende, belegte Fälle von Zensur, Sprachkontrolle und Überwachung — aus Deutschland, Frankreich, Spanien, Portugal, den USA und Brasilien. Und ein Leitfaden, wie du unabhängig wirst von Datenkraken und Multinationals.</p>
+  <p class="kicker">sturm.wtf — Die Plattform gegen die Lügen der Mainstream-Medien</p>
+  <h1>Gegen Zensur.<br>Für <span class="redact">Freiheit</span>.<br>Gegen das Vertuschen.</h1>
+  <p class="sub">Wir finden die Lügen der Mainstream-Medien — und das, was sie für Regierungen zudecken. Erschreckende, belegte Fälle von Zensur, Sprachkontrolle und Überwachung aus Deutschland, Frankreich, Spanien, Portugal, den USA und Brasilien. Und ein Leitfaden, wie du unabhängig wirst von Datenkraken und Multinationals.</p>
   <div class="btn-row">
     <a class="btn" href="/de/mission/">Unsere Mission</a>
     <a class="btn red" href="/de/">Die Fälle ansehen</a>

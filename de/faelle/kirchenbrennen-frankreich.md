@@ -47,6 +47,10 @@ Zugleich kursiert seit Jahren eine virale Behauptung, in Frankreich (und global)
 
 **Falsch 4 (Gegenrichtung):** „Anti-christliche Straftaten sind ein Mythos." — Falsch: 843 offiziell registrierte Akte, ein getöteter Christ 2025, eine fast verbrannte Kirche in Saint-Omer 2024, europaweit 94 Brandstiftungen. Die Zahl ist real, der Anstieg ist real — nur die viralen Ausmaße sind es nicht.
 
+## Fallregister
+
+Das vollständige, durch 9 parallele Recherchen verifizierte Fallregister (840 Fälle, 11 Länder, mit OIDAC-Abgleich und Ausschlussliste) steht als eigene Seite: **[Fallregister Kirchen-Vorfälle 2024–2026](/de/fallregister/)** — inklusive Rohdaten (JSON) zur Nachrechnung.
+
 ## Offene Fragen
 
 - Frankreich hat **2026 erstmals einen jährlichen Gesamtbericht** zu antireligiösen Akten angekündigt („bilan annuel").[^1] Wird er die Brandstiftungszahl pro Land veröffentlichen — oder verschwindet sie weiter in Sammelkategorien?

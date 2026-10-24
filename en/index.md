@@ -11,7 +11,7 @@ translations:
 
 # Cases: Alarming, documented examples
 
-<p class="lead">Every case is a dossier: what is claimed, what is documented, what critics say — and what remains open. Censorship and control cases from across Europe and the Americas.</p>
+<p class="lead">We find the lies of the mainstream media — and what they cover up for governments. Every case is a dossier: what is claimed, what is documented, what critics say — and what remains open. Censorship and control cases from across Europe and the Americas.</p>
 
 <div class="meta-line"><span class="tag red">Standard</span> Every article: summary → evidence → timeline → debunking → open questions → sources.</div>
 

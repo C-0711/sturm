@@ -18,6 +18,7 @@ As part of the 30.08.2024 X blockade, Moraes threatened fines against users circ
 
 ## Sources
 
-1. [LA Times](https://enewspaper.latimes.com/infinity/article_share.aspx?guid=c8f44e6b-67e5-4931-974e-f5e1c1fcc546)
-2. [Al Jazeera](https://www.aljazeera.com/news/2024/10/5/social-media-site-x-attempts-to-pay-fine-in-bid-to-resume-service-in-brazil)
+1. [STF (Brazilian Supreme Federal Tribunal), official news: "STF determina suspensão do X, antigo Twitter, em todo o território nacional"](https://noticias.stf.jus.br/postsnoticias/stf-determina-suspensao-do-x-antigo-twitter-em-todo-o-territorio-nacional-2/) — Justice Moraes' order of 30.08.2024, including the daily fine for circumvention, from the court itself.
+2. [STF press release: "STF inclui dono da rede social X no inquérito das milícias digitais"](https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=531677&ori=1) — the underlying inquiry (Inquérito das Milícias Digitais) into which Musk and X were placed.
 3. Dossier: [Brazil blocks X](/en/cases/brazil-x-block/)
+4. *Indication (press, not evidence):* [LA Times](https://enewspaper.latimes.com/infinity/article_share.aspx?guid=c8f44e6b-67e5-4931-974e-f5e1c1fcc546) (US$8,900/day figure), [Al Jazeera](https://www.aljazeera.com/news/2024/10/5/social-media-site-x-attempts-to-pay-fine-in-bid-to-resume-service-in-brazil) — press reporting; the order itself is the source of record.
