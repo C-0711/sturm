@@ -1,0 +1,76 @@
+# Amtliche Zahlen — Bundesebene + Staatsanzeiger (2024–2026)
+
+Stand: 2026-10-24. Geprüft und direkt aus den Quellen gelesen (BKA-Excel/PDF, Bundestags-/Landtags-Drucksachen als Text extrahiert; Rohdateien unter `~/amtl-bund-pruefung/`). Klassen: **PRIMAER** = Zahl direkt aus amtlicher Quelle (Statistik-Datei oder Amts-/Regierungsantwort) selbst gelesen; **SEKUNDAER** = Zahl über Presse bzw. Fragesteller-Angabe vermittelt.
+
+## BUND-EBENE + STAATSANZEIGER
+
+| Quelle | Jahr | Delikt | Zahl | URL | Klasse |
+|---|---|---|---|---|---|
+| BKA PKS 2024, Bundes-Grundtabelle T01 (BU-F-01, V1.0, 04.02.2025) | 2024 | Diebstahl insgesamt von Antiquitäten, Kunst- und sakralen Gegenständen (Schlüssel ***800) | 1.764 Fälle (Versuche 156) | https://www.bka.de/SharedDocs/Downloads/DE/Publikationen/PolizeilicheKriminalstatistik/2024/Bund/Faelle/BU-F-01-T01-Faelle_xls.xlsx?__blob=publicationFile&v=3 | PRIMAER |
+| BKA PKS 2024, T01 | 2024 | davon 3**800 einfacher Diebstahl von Antiquitäten, Kunst- u. sakralen Gegenständen | 782 Fälle | (dieselbe Datei) | PRIMAER |
+| BKA PKS 2024, T01 | 2024 | davon 4**800 schwerer Diebstahl von Antiquitäten, Kunst- u. sakralen Gegenständen | 982 Fälle | (dieselbe Datei) | PRIMAER |
+| BKA PKS 2025, Bundes-Grundtabelle T01 (BU-F-01, V1.1, 25.03.2026) | 2025 | Diebstahl insgesamt von Antiquitäten, Kunst- und sakralen Gegenständen (***800) | 2.232 Fälle (Versuche 201) | https://www.bka.de/SharedDocs/Downloads/DE/Publikationen/PolizeilicheKriminalstatistik/2025/Bund/Faelle/BU-F-01-T01-Faelle_xls.xlsx?__blob=publicationFile&v=1 | PRIMAER |
+| BKA PKS 2025, T01 | 2025 | davon 3**800 einfacher Diebstahl | 1.028 Fälle | (dieselbe Datei) | PRIMAER |
+| BKA PKS 2025, T01 | 2025 | davon 4**800 schwerer Diebstahl | 1.204 Fälle | (dieselbe Datei) | PRIMAER |
+| BKA Fact Sheet „Bundesweite Fallzahlen 2024 PMK“ (Tabelle 11, OTF Hasskriminalität) | 2024 / 2023 | Christenfeindliche Straftaten (Unterthemenfeld) | 337 / 277 (+21,66 %) | https://www.bka.de/SharedDocs/Downloads/DE/UnsereAufgaben/Deliktsbereiche/PMK/2024PMKFallzahlen.pdf?__blob=publicationFile&v=2 | PRIMAER |
+| BKA Fact Sheet 2024 PMK (Tabelle 22, OAZ Religionsgemeinschaft) | 2024 / 2023 | Unterangriffsziel „Kirche“ | 111 / 92 (+20,65 %), 2024: 0 Gewalttaten | (dasselbe PDF, S. 17) | PRIMAER |
+| BKA Fact Sheet „Bundesweite Fallzahlen 2025 PMK“ (Tabelle 12) | 2025 / 2024 | Christenfeindliche Straftaten | 337 / 337 (0,00 %) | https://www.bka.de/SharedDocs/Downloads/DE/UnsereAufgaben/Deliktsbereiche/PMK/2025PMKFallzahlen.pdf?__blob=publicationFile&v=2 | PRIMAER |
+| BKA Fact Sheet 2025 PMK (Tabelle 22) | 2025 / 2024 | Unterangriffsziel „Kirche“ | 92 / 111 (−17,12 %), davon Gewalt 4 / 0 | (dasselbe PDF, S. 23) | PRIMAER |
+| BT-Drs. 19/10483 (Antwort BRG v. 23.05.2019 auf KI 19/9644, BKA-LAPOS) | 2010–2018 | Angriffe auf christliche Einrichtungen (Angriffsziel „Religionsstätte“/„Friedhof“, KPMD-PMK), Stand 25.04.2019 | 1.731 Fälle | https://dserver.bundestag.de/btd/19/104/1910483.pdf | PRIMAER |
+| BT-Drs. 19/10483 | 2010–2018 | davon aufgeklärt | 217 | (dasselbe PDF) | PRIMAER |
+| BT-Drs. 19/10483 | 2017+2018+2019 (bis 25.04.) | Christenfeindliche Straftaten (Themenfeld, LAPOS) | 265 | (dasselbe PDF) | PRIMAER |
+| BT-Drs. 19/15740 (12. Integrationsbericht, 04.12.2019, Tabelle 15) | 2018 / 2017 | Christenfeindliche Straftaten (PMK Hasskriminalität, gesamt) | 121 / 129 | https://dserver.bundestag.de/btd/19/157/1915740.pdf | PRIMAER |
+| BT-Drs. 19/15740 (Tabelle 15) | 2018 / 2017 | davon Gewalttaten | 11 / 34 | (dasselbe PDF) | PRIMAER |
+| BT-Drs. 19/15740 (Abschnitt Angriffsziele) | 2018 / 2017 | Angriffsziel „Religionsstätte/Kirche“ (PMK-Gesamtstraftaten) | 156 / 165 (davon PMK-rechts 95/89, PMK-links 29/41) | (dasselbe PDF) | PRIMAER |
+| BT-Drs. 19/6720 (Antwort BRG v. 20.12.2018 auf KI 19/6361) | 2016/2017 | Bundesweite Zahlen zu Diebstählen/Einbrüchen in Kirchen u. Kirchenschändungen | **keine Daten** — „In der PKS erfolgt keine nach Religionen oder Konfessionen differenzierte Erfassung … Der Bundesregierung liegen somit keine statistischen Daten vor.“ (Fragen 3–7: „keine Erkenntnisse“) | https://dserver.bundestag.de/btd/19/067/1906720.pdf | PRIMAER (amtliche Aussage, keine Zahl) |
+| BT-Drs. 19/6720, Vorbemerkung der Fragesteller | 2014 / 2015 | Diebstähle und Einbrüche in christl. Kirchen u. Kapellen (laut „Thüringer Allgemeine“, Auswertung LKA-Statistiken) | „fast 2.300“ / „sogar 2.600“ | (dasselbe PDF) | SEKUNDAER (Pressezitat der Fragesteller, nicht amtlich, in keiner PKS-Tabelle verifizierbar) |
+| BT-Drs. 19/6720, Frage 9 (Angabe der Fragesteller) | 2017 | „Christenfeindliche Straftaten“ gegen Kirchen/christl. Symbole (PMK) | 25 | (dasselbe PDF) | SEKUNDAER (Fragesteller-Angabe, bezogen auf PMK-Bericht 2017; Antwort erklärt nur die Diskrepanz, bestreitet die Zahl nicht) |
+| LT BW Drucksache 17/9782 (3.11.2025, FDP-Antrag Timm Kern + Stellungnahme Innenministerium „Vandalismus in Kirchen“) — Tatörtlichkeit „Kirche“ | 2020/21/22/23/24 | Straftaten gesamt | 919 / 763 / 844 / 896 / **734** | https://www.landtag-bw.de/blueprint/servlet/redirect/document?wp=17&drs=9782 | PRIMAER |
+| LT BW 17/9782, „Kirche“ | 2020–2024 | davon Diebstahl | 361 / 291 / 355 / 438 / **379** | (dasselbe PDF) | PRIMAER |
+| LT BW 17/9782, „Kirche“ | 2020–2024 | davon Sachbeschädigung | 318 / 321 / 322 / 276 / **216** | (dasselbe PDF) | PRIMAER |
+| LT BW 17/9782, „Kirche“ | 2020–2024 | davon Hausfriedensbruch / Brandstiftung | 19/14/15/11/15 und 5/3/10/7/10 | (dasselbe PDF) | PRIMAER |
+| LT BW 17/9782, „Kirche“ | 2020–2024 | Schadenssumme | 240.766 / 186.137 / 461.872 / 189.705 / **274.779 €** | (dasselbe PDF) | PRIMAER |
+| LT BW 17/9782, „Kirche“ | 2020–2024 | Aufklärungsquote | 34,8 / 29,5 / 24,3 / 28,6 / **25,7 %** | (dasselbe PDF) | PRIMAER |
+| LT BW 17/9782, Tatörtlichkeit „Kapelle“ | 2020–2024 | Straftaten gesamt | 101 / 81 / 106 / 91 / **115** (+26,4 % ggü. 2023) | (dasselbe PDF) | PRIMAER |
+| LT BW 17/9782, „Kapelle“ | 2020–2024 | davon Diebstahl / Sachbeschädigung 2024 | 82 / 28 (2024); Diebstahl-Reihe 46/35/35/50/82 | (dasselbe PDF) | PRIMAER |
+| LT BW 17/9782, „Kapelle“ | 2020–2024 | Aufklärungsquote (2024 = „jeder sechste Fall“) | 20,8 / 16,0 / 17,0 / 22,0 / **16,5 %**; Schaden 2024: **59.433 €** | (dasselbe PDF) | PRIMAER |
+| LT BW 17/9782, Tatörtlichkeit „Kloster“ | 2020–2024 | Straftaten gesamt | 20 / 24 / 18 / 18 / **14**; Schaden 2024: 2.212 € (2023: 34.549 €) | (dasselbe PDF) | PRIMAER |
+| LT BW 17/9782, Tatörtlichkeit „Pfarrhaus“ | 2020–2024 | Straftaten gesamt | 91 / 75 / 72 / 70 / **76**; AQ 2024 22,4 %; Schaden 2024: 19.529 € | (dasselbe PDF) | PRIMAER |
+| LT BW 17/9782, Tatörtlichkeit „sonstige kirchliche Einrichtung“ (Gemeindehäuser, Außenanlagen, Verwaltungsräume) | 2020–2024 | Straftaten gesamt | 241 / 176 / 203 / 212 / **189** | (dasselbe PDF) | PRIMAER |
+| LT BW 17/9782, „sonstige kirchliche Einrichtung“ | 2020–2024 | Schadenssumme | 59.636 / 22.520 / 99.753 / 42.825 / **853.484 €** (≈20× Vorjahr, mehr als 2020–2023 zusammen) | (dasselbe PDF) | PRIMAER |
+| LT BW 17/9782, Antwort zu Frage 3 (Vergleich andere Länder) | — | Fallzahlen des Bundes/anderer Länder | „liegen dem Ministerium … nicht vor“ | (dasselbe PDF) | PRIMAER (amtliche Aussage) |
+| LT BW Drucksache 18/289 (17.7.2026, AfD-Antrag + Stellungnahme Innenministerium) | 2025 | Straftaten gesamt an Tatörtlichkeiten „Dom/Kapelle/Kirche/Kloster/Pfarrhaus/sonstige kirchl. Einrichtung“ (BW) | **1.054** (niedrigster Stand seit 2010; Mittel 2010–2025 ≈ 1.400; −5,0 % ggü. 2024; Höchststand 2016: 1.712; AQ teils 16–26 %) | https://www.landtag-bw.de/resource/blob/645146/08a99f259616100e8407e6a102a9180e/18_0289_D.pdf | PRIMAER |
+| Staatsanzeiger BW, „Diebstahl und Sachschäden: Wenn Kirchen zu Tatorten werden“, 02.12.2025, 08:54 (dpa/lsw) | 2024 (BW) | Kirchen: 734 Straftaten (379 Diebstahl, 216 SB, ~275.000 €, AQ >25 %); Kapellen: 115 (+26 %, AQ ~1/6); sonstige kirchl. Einrichtung: 189, ~853.000 € | alle Zahlen deckungsgleich mit LT-Drs 17/9782 (siehe oben) | https://www.staatsanzeiger.de/nachrichten/kultur/diebstahl-und-sachschaeden-wenn-kirchen-zu-tatorten-werden/ | SEKUNDAER (Presse über amtliche LT-Antwort; identische Textversion bei SWR 02.12.2025 07:55, ZEIT/dpa, domradio/KNA) |
+
+## BEMERKUNGEN
+
+**Staatsanzeiger-Artikel (Prüfpunkt a+b)**
+- Veröffentlicht 02.12.2025, 08:54 Uhr, Autor „sta“, Agenturkennzeichnung **(dpa/lsw)**; Bildnachweis dpa (Johanneskirche Stuttgart, Archivfoto 06.12.2021). Der Text ist identisch mit SWR Aktuell (02.12.2025, 07:55, Natalja Kurz/Laura Schmittinger) und der dpa-Fassung bei ZEIT und domradio (KNA).
+- **Alle Zahlen des Artikels sind korrekt** und decken sich exakt mit der Stellungnahme des BW-Innenministeriums in LT-Drs. 17/9782 (FDP-Antrag Dr. Timm Kern, „Vandalismus in Kirchen“, 3.11.2025): 734 Kirchen-Fälle 2024, 379 Diebstähle, 216 Sachbeschädigungen, Schaden 274.779 € („rund 275.000 €“), AQ 25,7 % („etwas mehr als jeder vierte Fall“), Kapellen 115 („rund 26 % mehr“, +26,4 %), AQ Kapellen 16,5 % („jeder sechste Fall“), sonstige kirchliche Einrichtung 189 Fälle / 853.484 € („rund 853.000 €“, „20-mal so viel wie im Vorjahr“: 42.825 € 2023).
+- Artikelwert „849 Delikte gesamt“ (so domradio) = 734 + 115 (Kirchen + Kapellen) — keine eigene amtliche Zahl.
+- **Weitere Bundesländer: keine.** Einziges Bundesland mit Statistik im Artikel ist Baden-Württemberg. Das bundesweite DBK-Zitat (Deutsche Bischofskonferenz, „Rheinische Post“, August) ist rein qualitativ, ohne Zahlen. Bestätigt auch amtlich: LT-Drs. 17/9782, Antwort zu Frage 3 — „Entsprechende Fallzahlen des Bundes oder anderer Länder liegen dem Ministerium … nicht vor.“
+- Deliktkatalog laut Artikel und 17/9782: seit 2020 erfasste Tatörtlichkeiten „Kirche“, „Kapelle“, „Kloster“, „Pfarrhaus“, „sonstige kirchliche Einrichtung“; Delikte: Diebstahl, Sachbeschädigung, Hausfriedensbruch, Brandstiftung. „Vandalismus“ ist in der PKS **kein** Erfassungsparameter (ausdrücklich in 17/9782).
+- Neuere Amtszahl: LT-Drs. 18/289 (Stellungnahme v. 12.8.2026) nennt für 2025 gesamt 1.054 Fälle über alle christlichen Tatörtlichkeiten (BW) — niedrigster Stand seit 2010, Höchststand 2016 mit 1.712.
+
+**Bundestags-Drucksachen christliche Sakralbauten (Prüfpunkt c)**
+- **19/6720** (Antwort 27.12.2018 auf KI 19/6361 „Straftaten gegen christliche Sakralbauten in Deutschland“, AfD/Frohnmaier): Die Bundesregierung hat **keinerlei bundesweite Zahlen** — PKS erfasst weder nach Religion/Konfession noch nach Objekt „Kirche“; christenfeindliche Taten laufen nur über PMK. Die einzigen Zahlen in der Drucksache stehen in der Vorbemerkung der Fragesteller (2.300 für 2014 / 2.600 für 2015, Quelle: „Thüringer Allgemeine“-Auswertung der LKA-Statistiken) und in Frage 9 (25 PMK-Fälle 2017) — beides **SEKUNDAER, nicht amtlich**.
+- **19/10483** (Antwort 24.05.2019 auf KI 19/9644 „Angriffe auf christliche Einrichtungen und Christen“): amtliche LAPOS-Zahlen — 1.731 Angriffe (Tatzeit 2010–2018, Stand 25.04.2019), 217 aufgeklärt, 265 christenfeindliche Straftaten (2017+2018+2019 bis April). Enthält Anlage mit Einzelfalltabelle. Vor 2019 gab es **keinen bundesweit einheitlichen Angriffszielkatalog** (Freitextfeld); seit 1.1.2019 einheitlich.
+- **19/15740** (12. Integrationsbericht, 04.12.2019): offizielle PMK-Serie „christenfeindliche Straftaten“ 2017: 129, 2018: 121 (Gewalttaten 34/11) und Angriffsziel „Religionsstätte/Kirche“ 2017: 165, 2018: 156.
+- **18/2832** (Antwort 7.10.2014): qualitativ — aus der PKS sind christenfeindliche Straftaten „systembedingt“ nicht herausfilterbar; Recherche nach dem BKA-Katalogwert „Religionsstätte/Kirche“ (LAPOS) möglich, aber „kein bundesweiter Katalogwert des KPMD-PMK“. Die angekündigten Tabellen sind in der Drucksache nicht als Text enthalten (leere Seite).
+- **19/25311** (AfD-Antrag 16.12.2020, „Bundesbeauftragter gegen Christenfeindlichkeit“): nennt dieselben 1.731/217/265-Zahlen, aber nur als Zitat von 19/10483 bzw. Open Doors (2.600 Mio. weltweit etc. = Fremdquellen) — nicht eigenständig verwerten.
+- **20. WP**: keine Antwort-Drucksache mit neuen bundesweiten Kirchen-Tatort-Zahlen gefunden; die amtliche Fortführung läuft über die BKA-PMK-Fact-Sheets (Kirche als Unterangriffsziel: 2023: 92, 2024: 111, 2025: 92). Sachkontext 20/11650 (42.500 Sakralbauten beider großer Konfessionen, ~80 % unter Denkmalschutz) ist denkmal-, nicht kriminalstatistisch.
+
+**BKA-PKS-„Tatortlichkeiten“ / „Tatort-Z“ (Prüfpunkt d)**
+- **Befund: Eine öffentliche BKA-PKS-Tabelle „Tatort-Z“ mit Kirche/Sakralbau-Zeilen gibt es NICHT.** Geprüft an drei Stellen:
+  1. Offizielle **PKS-Richtlinien-2024-Tabellenübersicht** (Anlage 2): Standardtabellen 01–944 — davon Tatortbezogenes nur Tab. 21/28/29 „Tatort-Wohnsitz-Beziehung nach Tatverdächtigen“ (keine Tatortarten) und „T06-A Tatorttabelle Ausland“ (nichtdeutsche TV, Ausland). Keine Tabelle mit Tatortarten wie Kirche/Sakralbau. (https://www.bka.de/SharedDocs/Downloads/DE/Publikationen/PolizeilicheKriminalstatistik/2024/Interpretation/02_Rili/Anlage-2-Tabellenuebersicht.pdf?__blob=publicationFile&v=4)
+  2. **Bundes-Tabellen 2024 UND 2025 selbst heruntergeladen und durchsucht** (BU-F-01 T01 „Faelle“ und BU-F-04 „Tatortverteilung %“): die Tatortverteilung gliedert **nur nach Einwohnergrößenklassen** des Tatorts (unter 20.000 / 20.000–100.000 / 100.000–500.000 / 500.000+ / unbekannt) — keine Zeile „Kirche“, „Sakralbau“ o. ä.
+  3. Es wird **kein „Tabellenbund“-ZIP** mehr angeboten: die Bundes-Tabellen kommen als **Einzel-XLSX** (BU-F-…, BU-TV-…, BU-O-…, BU-BZ-…) über die PKS-Tabellenseiten; Zeitreihen-Seite enthält nur TVBZ-Excel. Nichts namens „Tatort-Z“.
+- Der einzige sakrale Anker in der Bundes-PKS ist der **Straftatenschlüssel** „Diebstahl von Antiquitäten, Kunst- und sakralen Gegenständen“ (***800, Unterpätze 300800/310800/335800/400800/400810/400820/410800/410810/410820/435800/436800): **1.764 Fälle (2024)**, **2.232 Fälle (2025)** — Objektbezug (gestohlenes Gut), **nicht Tatort**.
+- Die Kirche/Sakralbau-Abfrage existiert amtlich nur im **PMK-System** (KPMD-PMK/LAPOS): „Unterangriffsziel Kirche“ in den BKA-PMK-Fact-Sheets (2023: 92, 2024: 111, 2025: 92). Das deckt nur politisch motivierte Taten, nicht allgemeine Einbrüche/Diebstähle.
+- Der Begriff „Tatörtlichkeiten“ stammt aus der **Länder-erfassung** (hier: Polizei BW, LT-Drs. 17/9782 und 18/289 — Katalogbegriffe „Dom“, „Kapelle“, „Kirche“, „Kloster“, „Pfarrhaus“, „sonstige kirchliche Einrichtung“). Diese BW-Auswertung ist nicht Teil des BKA-Bundestabellenpakets.
+
+**Ergänzend (Prüfpunkt c, Bund)**
+- Kein Bundesorgan veröffentlicht bundesweite Zahlen zu Einbrüchen/Diebstählen **in** Kirchen als Tatort — 19/6720 (2018) und 18/2832 (2014) sagen das ausdrücklich; am nächsten dran sind (i) PKS-Schlüssel ***800 (Objekt) und (ii) PMK-Unterangriffsziel „Kirche“. Hochrechnungen oder Bundessummen aus den BW-Zahlen sind zu unterlassen.
+
+### Rohdateien (lokal)
+`~/amtl-bund-pruefung/`: d19-06361.pdf, d19-06720.pdf, d19-10483.pdf, d19-15740.pdf, d18-02832.pdf (+ .txt), bka-pmk-2024-fallzahlen.pdf, bka-pmk-2025-fallzahlen.pdf, BU-F-01-Faelle.xlsx (2024), BU-F-04-Tatortverteilung.xlsx (2024), BU-F-01-2025.xlsx, Anlage-2-Tabellenuebersicht.pdf, lt-bw-17-9782.pdf, lt-bw-18-0289.pdf (+ .txt).
