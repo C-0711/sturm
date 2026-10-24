@@ -77,9 +77,9 @@ Ausgeschieden aus dem Register (mit Beleg): Heiligenhafen (2018), Golzwarden (20
 
 Alle Rohdaten liegen öffentlich in diesem Repository:
 
-- `_data/oidac-fallregister/oidac_de_2024_full.json` — Deutschland 2024, 139 OIDAC-Fälle (maschinell extrahiert)
-- `_data/oidac-fallregister/oidac_france_2024_full.json` — Frankreich 2024
-- `_data/oidac-fallregister/oidac_faelle_suedeuropa_2024_2026.json` — ES/PT/IT/AT/CH, 454 Fälle
+- `dokumente/oidac-fallregister/oidac_de_2024_full.json` — Deutschland 2024, 139 OIDAC-Fälle (maschinell extrahiert)
+- `dokumente/oidac-fallregister/oidac_france_2024_full.json` — Frankreich 2024
+- `dokumente/oidac-fallregister/oidac_faelle_suedeuropa_2024_2026.json` — ES/PT/IT/AT/CH, 454 Fälle
 - `quellen/fallregister/*.md` — die 7 Regionsregister im Volltext (mit Ausschlusslisten, Statistik-Blöcken, allen URLs)
 
 Wer eine Zahl dieser Seite anzweifelt: Die JSONs enthalten Fall-ID, Datum, Ort, Quelle-URL — jede Zeile ist eine Prüfanweisung.

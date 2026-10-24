@@ -77,9 +77,9 @@ Excluded from the register (with evidence): Heiligenhafen (2018), Golzwarden (20
 
 All raw data is public in this repository:
 
-- `_data/oidac-fallregister/oidac_de_2024_full.json` — Germany 2024, 139 OIDAC cases (machine-extracted)
-- `_data/oidac-fallregister/oidac_france_2024_full.json` — France 2024
-- `_data/oidac-fallregister/oidac_faelle_suedeuropa_2024_2026.json` — ES/PT/IT/AT/CH, 454 cases
+- `dokumente/oidac-fallregister/oidac_de_2024_full.json` — Germany 2024, 139 OIDAC cases (machine-extracted)
+- `dokumente/oidac-fallregister/oidac_france_2024_full.json` — France 2024
+- `dokumente/oidac-fallregister/oidac_faelle_suedeuropa_2024_2026.json` — ES/PT/IT/AT/CH, 454 cases
 - `quellen/fallregister/*.md` — the 7 regional registers in full (with exclusion lists, statistics blocks, all URLs)
 
 Whoever doubts a number on this page: the JSONs contain case ID, date, location, source URL — every line is a verification instruction.
