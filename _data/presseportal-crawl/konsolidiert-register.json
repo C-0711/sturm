@@ -1,0 +1,2267 @@
+{
+ "anzahl_pm_eindeutig": 286,
+ "stand": "2026-10-25",
+ "faelle": [
+  {
+   "ds": "65850",
+   "pm": "5111612",
+   "titel": "POL-MK: Gemeinsame Presseerklärung der Staatsanwaltschaft Hagen und Polizei Hagen: - Mehrere muslimische Grabstätten in Iserlohn geschändet - Staatsschutz Hagen ermittelt und sucht Zeugen",
+   "datum": "31.12.2021",
+   "snippet": "",
+   "begriff": "geschändet"
+  },
+  {
+   "ds": "30835",
+   "pm": "5111611",
+   "titel": "POL-HA: Gemeinsame Presseerklärung der Staatsanwaltschaft Hagen und Polizei Hagen: - Mehrere muslimische Grabstätten in Iserlohn geschändet - Staatsschutz Hagen ermittelt und sucht Zeugen",
+   "datum": "31.12.2021",
+   "snippet": "",
+   "begriff": "geschändet"
+  },
+  {
+   "ds": "110979",
+   "pm": "6109358",
+   "titel": "POL-UL: (GP) Geislingen - In Kirche eingebrochen / Zwischen Sonntag und Montag verschaffte sich ein Dieb Zutritt zu einer Kirche in Geislingen.",
+   "datum": "31.07.2025",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "104234",
+   "pm": "6112676",
+   "titel": "POL-EL: Lingen - Polizei klärt mehrere Sachbeschädigungen in Kirchen auf",
+   "datum": "31.07.2025",
+   "begriff": "Kirche angezündet"
+  },
+  {
+   "ds": "108767",
+   "pm": "6088163",
+   "titel": "POL-HST: Sachbeschädigungen in Göhrener Kirche",
+   "datum": "31.07.2025",
+   "begriff": "Kirche angezündet"
+  },
+  {
+   "ds": "47764",
+   "pm": "5571571",
+   "titel": "POL-RTK: Unbekannter tritt gegen Fahrzeug +++ Im letzten Moment Betrug abgewehrt +++ Opferstock aus Kirche entwendet +++ Gegen Tor gefahren +++ Unfallflucht mit Hinweisen +++ Unfall auf A3",
+   "datum": "31.07.2023",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "65849",
+   "pm": "6213356",
+   "titel": "POL-KLE: Kevelaer - Diebstahl an Kirche /Kupferfallrohr entwendet",
+   "datum": "31.01.2026",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "110979",
+   "pm": "5409531",
+   "titel": "POL-UL: (BC) Unlingen - Diebe plündern Opferstock / Geld haben Unbekannte am Mittwoch aus einer Unlinger Kirche gestohlen.",
+   "datum": "30.12.2022",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "104234",
+   "pm": "4802596",
+   "titel": "POL-EL: Spahnharrenstätte - Einbruch in Kirche",
+   "datum": "30.12.2020",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "108746",
+   "pm": "5880302",
+   "titel": "POL-HRO: Sachbeschädigungen auf Schweriner Friedhof",
+   "datum": "30.09.2024",
+   "snippet": "",
+   "begriff": "geschändet"
+  },
+  {
+   "ds": "117697",
+   "pm": "5616064",
+   "titel": "POL-PDWIL: Einbruchsdiebstahl in Kirche Daun, Entwendung von Opferstock",
+   "datum": "30.09.2023",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "8",
+   "pm": "5310562",
+   "titel": "POL-DN: Opferstock aus Kirche entwendet",
+   "datum": "30.08.2022",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "65849",
+   "pm": "6090772",
+   "titel": "POL-KLE: Rheurdt - Diebstahl an und in einer Kirche: Kripo ermittelt und sucht Zeugen",
+   "datum": "30.07.2025",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "110970",
+   "pm": "6088081",
+   "titel": "POL-FR: Emmendingen: Sachbeschädigung an der Stadtkirche",
+   "datum": "30.07.2025",
+   "begriff": "Kirche angezündet"
+  },
+  {
+   "ds": "117711",
+   "pm": "6286454",
+   "titel": "POL-PDMY: Zeugen gesucht - Opferstock in Kirche aufgebrochen",
+   "datum": "30.05.2026",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "12726",
+   "pm": "6267182",
+   "titel": "POL-EN: Opferstock mit Münzgeld aus Kapelle entwendet",
+   "datum": "30.04.2026",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "65850",
+   "pm": "5500839",
+   "titel": "POL-MK: Opferstock an St. Lucia/St. Nikolaus Kirche aufgebrochen",
+   "datum": "30.04.2023",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "65849",
+   "pm": "6056710",
+   "titel": "POL-KLE: Kleve - Diebstahl aus Krankenhaus-Kapelle / Silberschale entwendet.",
+   "datum": "30.03.2025",
+   "snippet": "",
+   "begriff": "Tabernakel"
+  },
+  {
+   "ds": "8",
+   "pm": "6004983",
+   "titel": "POL-DN: Kupferrohre an Kirche und an Apotheke gestohlen",
+   "datum": "30.01.2025",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "117709",
+   "pm": "5147911",
+   "titel": "POL-PDNR: Opferstock an Erler-Kapelle manipuliert",
+   "datum": "30.01.2022",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "30127",
+   "pm": "5596865",
+   "titel": "POL-MG: Einbrecher entwenden Tabernakel aus Kirche",
+   "datum": "29.07.2023",
+   "snippet": "",
+   "begriff": "Tabernakel"
+  },
+  {
+   "ds": "57895",
+   "pm": "4984395",
+   "titel": "POL-HOL: Aus der Verankerung gerissen; Opferstock aus der Lutherkirche gestohlen",
+   "datum": "29.07.2021",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "12522",
+   "pm": "5524096",
+   "titel": "POL-BI: Einbruch in Brackweder Kirche",
+   "datum": "29.05.2023",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "65841",
+   "pm": "6246009",
+   "titel": "POL-EU: Unbekannte beschädigen Opferstock in Waldkapelle",
+   "datum": "29.03.2026",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "104234",
+   "pm": "5940462",
+   "titel": "POL-EL: Wettrup - Bargeld aus Kirche gestohlen (Korrektur Meldungsort)",
+   "datum": "28.12.2024",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "55625",
+   "pm": "4801583",
+   "titel": "POL-PB: Unbekannte Diebe stehlen Opferstock mit Geld aus Kirche",
+   "datum": "28.12.2020",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "110972",
+   "pm": "4800320",
+   "titel": "POL-KA: (KA) Karlsruhe - Unbekannte versuchen Opferstock in Kirche aufzubrechen",
+   "datum": "28.12.2020",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "110979",
+   "pm": "5919988",
+   "titel": "POL-UL: (BC) Laupheim - Dieb plündert Opferstock / Am Donnerstag stahl ein Unbekannter Geld aus einer Kirche bei Laupheim.",
+   "datum": "28.11.2024",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "117710",
+   "pm": "5594774",
+   "titel": "POL-PDMT: Görgeshausen. Opferstock in Kirche aufgebrochen",
+   "datum": "28.08.2023",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "57929",
+   "pm": "6065269",
+   "titel": "POL-NOM: Diebstahl aus Kirche",
+   "datum": "28.06.2025",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "4969",
+   "pm": "5793460",
+   "titel": "POL-DA: Lorsch: Diebstahl und Sachbeschädigung in Kirche",
+   "datum": "28.05.2024",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "126724",
+   "pm": "6245517",
+   "titel": "LPI-SLF: Opferstock in Stadtkirche geplündert",
+   "datum": "28.03.2026",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "117708",
+   "pm": "4559746",
+   "titel": "POL-PPMZ: Nieder-Ingelheim - Vandalismus in der Kirche - Zeugen gesucht",
+   "datum": "28.03.2020",
+   "begriff": "Kirche angezündet"
+  },
+  {
+   "ds": "65850",
+   "pm": "5707426",
+   "titel": "POL-MK: Kontrolleur angegriffen - Kunden bestohlen - Kirche beschmiert",
+   "datum": "27.12.2023",
+   "begriff": "Kirche angezündet"
+  },
+  {
+   "ds": "44149",
+   "pm": "4777602",
+   "titel": "POL-HR: Homberg/ Efze: Opferstock mit Bargeld aus Kirche gestohlen",
+   "datum": "27.11.2020",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "12727",
+   "pm": "5640088",
+   "titel": "POL-LIP: Detmold. Opferstock in Kirche aufgebrochen.",
+   "datum": "27.10.2023",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "59488",
+   "pm": "6303781",
+   "titel": "POL-LG: ++ Festnahme eines Tatverdächtigen nach Brand in einer Kirche ++ Psychisch auffälliger Mann am Brandort gesehen ++ Ermittlungen der Polizei dauern an ++",
+   "datum": "27.06.2026",
+   "begriff": "Kirche angezündet"
+  },
+  {
+   "ds": "59460",
+   "pm": "6283756",
+   "titel": "POL-HK: Schneverdingen: Unbekannte dringen in Kirche ein; Walsrode: Ladendiebstahl endet mit Körperverletzung; Soltau: Unfälle; Bad Fallingbostel/A 7: Unfall; Soltau: Straßenverkehrsgefährdung",
+   "datum": "27.05.2026",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "110973",
+   "pm": "5789033",
+   "titel": "POL-KN: (Schonach / Schwarzwald-Baar-Kreis) Dieb stiehlt Geldkassette aus Kirche (27.05.2024)",
+   "datum": "27.05.2024",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "43553",
+   "pm": "4321840",
+   "titel": "POL-MI: Fürbittenbuch aus Gehlenbecker Kirche gestohlen",
+   "datum": "27.04.2018",
+   "begriff": "Kirche angezündet"
+  },
+  {
+   "ds": "117711",
+   "pm": "4534527",
+   "titel": "POL-PDMY: Bell - Opferstockaufbruch in der der Pfarrkirche Bell/Eifel",
+   "datum": "27.02.2020",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "110969",
+   "pm": "5958418",
+   "titel": "POL-AA: Rems-Murr-Kreis: Diebstahl aus Kirche - Unfallflucht - Scheunenbrand",
+   "datum": "27.01.2025",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "110970",
+   "pm": "5938203",
+   "titel": "POL-FR: Waldkirch-Kollnau; Diebstahl von Tabernakel aus der Kirche St. Josef - Zeugenaufruf",
+   "datum": "26.12.2024",
+   "snippet": "",
+   "begriff": "Tabernakel"
+  },
+  {
+   "ds": "50153",
+   "pm": "5939163",
+   "titel": "POL-LM: +++Einbruchserie in Gartenkolonie+++Trickdiebstahl+++ Taschendiebstahl+++PKW Diebstahl+++Diebstähle aus PKW+++Diebstahl von Kennzeichen+++Friedhofsschmuck entwendet+++",
+   "datum": "26.12.2024",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "10374",
+   "pm": "5405436",
+   "titel": "POL-REK: 221230-1: Einbruch in Kirche - Zeugensuche",
+   "datum": "26.12.2022",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "65841",
+   "pm": "4802814",
+   "titel": "POL-EU: Kirchentür angezündet",
+   "datum": "26.12.2020",
+   "begriff": "Kirche angezündet"
+  },
+  {
+   "ds": "117697",
+   "pm": "5895687",
+   "titel": "POL-PDWIL: Diebstahl aus Opferstock der Waldkapelle &quot;Zum Bildchen&quot;",
+   "datum": "26.10.2024",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "65845",
+   "pm": "4757450",
+   "titel": "POL-HS: Einbruch in Kirche",
+   "datum": "26.10.2020",
+   "snippet": "",
+   "begriff": "Tabernakel"
+  },
+  {
+   "ds": "117697",
+   "pm": "5615676",
+   "titel": "POL-PDWIL: Einbruchsdiebstahl in Wehrbüschkapelle, Entwendung von Opferstock",
+   "datum": "26.09.2023",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "6313",
+   "pm": "5031320",
+   "titel": "POL-FL: Gelting - Opferstock in Geltinger St. Katharinen Kirche aufgebrochen und Spenden entwendet, Polizei sucht Zeugen.",
+   "datum": "26.09.2021",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "126724",
+   "pm": "6344105",
+   "titel": "LPI-SLF: Diebstahl an Kirche - Zeugen gesucht!",
+   "datum": "26.08.2026",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "117709",
+   "pm": "5283994",
+   "titel": "POL-PDNR: Birnbach -Einbruchsdiebstahl in ev. Kirche-",
+   "datum": "26.07.2022",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "43558",
+   "pm": "6281923",
+   "titel": "POL-OH: Fahrräder entwendet - Rennräder von Fahrradträger entwendet - Kassenhäuschen aufgebrochen - Farbschmiererei an Kirche - Einbruch in Einfamilienhaus",
+   "datum": "26.05.2026",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "65844",
+   "pm": "5212275",
+   "titel": "POL-HAM: Einbrecher erbeuten Opferstock aus Kirche",
+   "datum": "26.04.2022",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "65849",
+   "pm": "5206054",
+   "titel": "POL-KLE: Kleve - Opferstock aus Kirche gestohlen",
+   "datum": "26.04.2022",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "65843",
+   "pm": "5755649",
+   "titel": "POL-GM: Opferstock in Bergneustädter Kirche aufgebrochen",
+   "datum": "26.03.2024",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "110975",
+   "pm": "5966201",
+   "titel": "POL-OG: Gengenbach - Spenden aus Kirche entwendet",
+   "datum": "26.01.2025",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "43777",
+   "pm": "5957661",
+   "titel": "POL-ME: Kupferrohre von Kirchengemeinde gestohlen - Polizei bittet um Hinweise - Monheim am Rhein - 2501097",
+   "datum": "26.01.2025",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "117697",
+   "pm": "4823221",
+   "titel": "POL-PDWIL: Versuchter Aufbruch des Opferstocks in der Büschkapelle von Gerolstein",
+   "datum": "26.01.2021",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "110969",
+   "pm": "6168528",
+   "titel": "POL-AA: Rems-Murr-Kreis: Unfallflucht - Diebstahl aus Kirche - Einbrüche - 41-Jähriger wegen Sexualdelikt in U-Haft - Brand in Wohngebäude",
+   "datum": "25.11.2025",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "8",
+   "pm": "5664174",
+   "titel": "POL-DN: Diebstähle in der Kirche St. Martinus",
+   "datum": "25.11.2023",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "65849",
+   "pm": "5089052",
+   "titel": "POL-KLE: Emmerich - Sachbeschädigungen in Kirche /Zeugen gesucht",
+   "datum": "25.10.2021",
+   "begriff": "Kirche angezündet"
+  },
+  {
+   "ds": "117710",
+   "pm": "4744176",
+   "titel": "POL-PDMT: Versuchter Aufbruch eines Tabernakels in Hartenfels",
+   "datum": "25.10.2020",
+   "snippet": "",
+   "begriff": "Tabernakel"
+  },
+  {
+   "ds": "65843",
+   "pm": "5007385",
+   "titel": "POL-GM: 310821-672: In Kirche eingebrochen",
+   "datum": "25.08.2021",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "110979",
+   "pm": "6087243",
+   "titel": "POL-UL: (BC) Riedlingen - Opferstock gestohlen / Nicht einmal Halt vor einer Spendenkasse in einer Kirche machten Unbekannte in den vergangen Tagen bei Riedlingen.",
+   "datum": "25.06.2025",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "117687",
+   "pm": "5544782",
+   "titel": "POL-PDNW: (Bad Dürkheim) - Zeitschrift in Kirche angezündet",
+   "datum": "25.06.2023",
+   "begriff": "Kirche angezündet"
+  },
+  {
+   "ds": "169620",
+   "pm": "6285211",
+   "titel": "POL Schwaben Nord: Polizei ermittelt nach versuchtem Diebstahl aus einer Kirche",
+   "datum": "25.05.2026",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "4969",
+   "pm": "5768279",
+   "titel": "POL-DA: Seeheim-Jugenheim: Diebstahl aus Kirche / Wer kann Hinweise geben?",
+   "datum": "25.04.2024",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "110970",
+   "pm": "5205535",
+   "titel": "POL-FR: Einbruch in Kirche",
+   "datum": "25.04.2022",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "43526",
+   "pm": "5231618",
+   "titel": "POL-ST: Hörstel, Unbekannte zündeln an Antoniuskirche, Infotafel beschädigt",
+   "datum": "25.04.2022",
+   "begriff": "Kirche angezündet"
+  },
+  {
+   "ds": "68438",
+   "pm": "5743379",
+   "titel": "POL-DEL: Landkreis Oldenburg: Hoher Sachschaden durch Einbruch in Friedhofskapelle in Ganderkesee +++ Zeugen gesucht",
+   "datum": "25.03.2024",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "13248",
+   "pm": "5133735",
+   "titel": "POL-D: Eller - Versuchter Diebstahl aus Opferstock in Kirche - Frau setzt selbstgebaute &quot;Angel&quot; ein - Festnahme - Haftrichter",
+   "datum": "25.01.2022",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "110972",
+   "pm": "4799378",
+   "titel": "POL-KA: (KA) Karlsruhe - Sachbeschädigung in Kirche",
+   "datum": "24.12.2020",
+   "begriff": "Kirche angezündet"
+  },
+  {
+   "ds": "50154",
+   "pm": "6166176",
+   "titel": "POL-MTK: Polizeibeamten beleidigt und bespuckt +++ Spendenbox aus Kirche gestohlen +++ Staubsaugerautomat aufgebrochen +++ Brennholz entwendet",
+   "datum": "24.11.2025",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "117686",
+   "pm": "5611952",
+   "titel": "POL-PDLD: Kuhardt - Opferstock in Kirche aufgebrochen",
+   "datum": "24.09.2023",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "14915",
+   "pm": "5818056",
+   "titel": "POL-MA: Wiesenbach/Rhein-Neckar-Kreis: Fallrohre von Kirche entwendet - Zeugen gesucht!",
+   "datum": "24.06.2024",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "65851",
+   "pm": "5476878",
+   "titel": "POL-NE: Mutmaßliches Diebespaar in Kirche erwischt - Kleingeld aus Opferstock geangelt",
+   "datum": "24.03.2023",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "117698",
+   "pm": "4848722",
+   "titel": "POL-PDTR: Diebstahl des Opferstock in der Erzkapelle",
+   "datum": "24.02.2021",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "24843",
+   "pm": "5700796",
+   "titel": "POL-BOR: Schöppingen - Diebstahl von sakralen Gegenständen",
+   "datum": "24.01.2024",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "117697",
+   "pm": "5029439",
+   "titel": "POL-PDWIL: Opferstock in Heilig-Geist-Kirche aufgebrochen / Polizei sucht Zeugen",
+   "datum": "23.09.2021",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "50153",
+   "pm": "5569434",
+   "titel": "POL-LM: +++ Opferkasten in Kirche aufgebrochen und weiterer gestohlen +++ Gefährliche Körperverletzung +++ Sexuelle Belästigung und Körperverletzung +++",
+   "datum": "23.07.2023",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "59488",
+   "pm": "6061242",
+   "titel": "POL-LG: ++ &quot;Dauerleuten&quot; - Kirchenglocken nach Blitzeinschlag in Dauerbetrieb ++ VW UP-Fahrerin verunfallt und kollidiert mit Baum - schwerste Verletzungen ++ Vandalen trieben ihr Unwesen ++",
+   "datum": "23.06.2025",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "68439",
+   "pm": "5742948",
+   "titel": "POL-DH: --- Twistringen, Pkw gegen Baum - Lemförde, Polizei erwischt Graffiti Sprayer - Stuhr, Diebstahl aus Kirche ---",
+   "datum": "23.03.2024",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "65843",
+   "pm": "5957070",
+   "titel": "POL-GM: Spenden aus Kirche gestohlen",
+   "datum": "23.01.2025",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "65854",
+   "pm": "6186888",
+   "titel": "POL-SI: Eindringling klaut Mischpult aus Kirche -#polsiwi",
+   "datum": "22.12.2025",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "110970",
+   "pm": "5680646",
+   "titel": "POL-FR: Görwihl: Sachbeschädigung und Diebstahl in / aus Oberwihler Kirche",
+   "datum": "22.12.2023",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "110975",
+   "pm": "5057274",
+   "titel": "POL-OG: Oberkirch - Vorläufige Festnahme",
+   "datum": "22.10.2021",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "126722",
+   "pm": "5854812",
+   "titel": "LPI-J: Diebstahl aus Kirche",
+   "datum": "22.08.2024",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "43777",
+   "pm": "5282439",
+   "titel": "POL-ME: Unbekannte zündeln in Kirche - die Polizei ermittelt - Monheim am Rhein - 2207122",
+   "datum": "22.06.2022",
+   "begriff": "Kirche angezündet"
+  },
+  {
+   "ds": "110970",
+   "pm": "6041083",
+   "titel": "POL-FR: Bad Säckingen: Diebstahl aus Kirche",
+   "datum": "22.05.2025",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "65851",
+   "pm": "6007675",
+   "titel": "POL-NE: Mögliche Brandstiftung in Neusser Kirche",
+   "datum": "22.05.2024",
+   "begriff": "Kirche angezündet"
+  },
+  {
+   "ds": "104234",
+   "pm": "5233619",
+   "titel": "POL-EL: Sögel - Vandalismus in Kirche",
+   "datum": "22.05.2022",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "134196",
+   "pm": "6018062",
+   "titel": "POL-Bremerhaven: Kupferplatte von Kirche gestohlen",
+   "datum": "22.04.2025",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "6006",
+   "pm": "5204336",
+   "titel": "POL-COE: Nottuln, Darup, Coesfelder Straße/ Kupferschaufel aus Kapelle entwendet",
+   "datum": "22.04.2022",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "104234",
+   "pm": "5983049",
+   "titel": "POL-EL: Spahnharrenstätte - Opferstöcke in Kirche aufgebrochen",
+   "datum": "22.02.2025",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "110970",
+   "pm": "5680635",
+   "titel": "POL-FR: Murg: Opferstock in der Kirche St. Leodegar und Marzellus aufgebrochen",
+   "datum": "21.12.2023",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "65850",
+   "pm": "6356082",
+   "titel": "POL-MK: Streit am Parkplatz - Einbruch - Bibel aus Kirche gestohlen - Unfall in Kurve - Alkohol am Steuer",
+   "datum": "21.09.2026",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "126721",
+   "pm": "5875840",
+   "titel": "LPI-GTH: Versuchter Diebstahl aus einer Kirche",
+   "datum": "21.09.2024",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "43647",
+   "pm": "5851212",
+   "titel": "POL-WE: + Butzbacher Polizei sucht Eigentümer von Fahrradzubehör + Einbrecher bleiben ohne Beute + Opferstock in Kirche beschädigt + Kraftstoff abgezapft + Diesel gestohlen + Zwei Leichtverletzte bei Unfall +",
+   "datum": "21.08.2024",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "108764",
+   "pm": "5589812",
+   "titel": "POL-HWI: Polizei fahndet mit Bildern nach Dieb des Opferstocks aus der Heiligen-Geist-Kirche",
+   "datum": "21.08.2023",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "6006",
+   "pm": "5303113",
+   "titel": "POL-COE: Nottuln, Stiftsplatz, Kirchplatz/ Opferstock aufgebrochen",
+   "datum": "21.08.2022",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "119508",
+   "pm": "4951958",
+   "titel": "POL-GÖ: (238/2021) Diebstahl aus Kirche in Bilshausen - Opferstock aufgebrochen",
+   "datum": "21.06.2021",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "110970",
+   "pm": "5202761",
+   "titel": "POL-FR: Waldshut-Tiengen/ Waldshut: Opferstock in Kirche aufgebrochen",
+   "datum": "21.04.2022",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "52656",
+   "pm": "5937314",
+   "titel": "POL-WAF: Warendorf. Diebstahl aus Kirche durch aufmerksame Zeugin unterbunden",
+   "datum": "20.12.2024",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "14915",
+   "pm": "5399953",
+   "titel": "POL-MA: Heidelberg-Pfaffengrund: Opferstock in Kirche aufgebrochen - Zeugenaufruf!",
+   "datum": "20.12.2022",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "47764",
+   "pm": "5654581",
+   "titel": "POL-RTK: Dieb hebt im Anschluss Geld ab +++ Mehrere Scheiben von Kirche beschädigt +++ Fahrzeug überschlägt sich - Fahrerin verletzt",
+   "datum": "20.11.2023",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "110979",
+   "pm": "5357271",
+   "titel": "POL-UL: (HDH) Herbrechtingen - Diebstahl aus Kapelle",
+   "datum": "20.10.2022",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "6006",
+   "pm": "6355792",
+   "titel": "POL-COE: Nordkirchen, Schloßstraße / Handtaschendiebstahl",
+   "datum": "20.09.2026",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "110970",
+   "pm": "6124353",
+   "titel": "POL-FR: Bad Säckingen: Opferstock in Kirche aufgebrochen - Polizei bittet um Hinweise",
+   "datum": "20.09.2025",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "65850",
+   "pm": "5616656",
+   "titel": "POL-MK: Randale auf der Straße und in einer Tankstelle/ Fallrohre an Kirche gestohlen",
+   "datum": "20.09.2023",
+   "begriff": "Kirche angezündet"
+  },
+  {
+   "ds": "65843",
+   "pm": "5326403",
+   "titel": "POL-GM: Einbruch in Kirche und Pfarrsaal",
+   "datum": "20.09.2022",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "108763",
+   "pm": "5346215",
+   "titel": "POL-LWL: Verdacht der Brandstiftung in Plauer Kirche - Polizei sucht Zeugen",
+   "datum": "20.09.2022",
+   "begriff": "Kirche angezündet"
+  },
+  {
+   "ds": "65849",
+   "pm": "6340150",
+   "titel": "POL-KLE: Goch - Unbekannte legen Feuer in Pfalzdorfer Kirche / diverse Gegenstände beschädigt und Spendengeld entwendet / Zeugen gesucht",
+   "datum": "20.08.2026",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "110969",
+   "pm": "5848223",
+   "titel": "POL-AA: Ostalbkreis: Diebstahl aus Kirche, Obstbäume beschädigt",
+   "datum": "20.08.2024",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "50153",
+   "pm": "5301675",
+   "titel": "POL-LM: +++Verkehrsunfallflucht in Frickhofen+++Verfolgungsfahrt von Roller in Dehrn+++Diebstahl aus Pfarrkirche St. Leonard in Fussingen+++Quälerei von Rehkitz in Niederhadamar+++",
+   "datum": "20.08.2022",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "110979",
+   "pm": "6331127",
+   "titel": "POL-UL: (BC) Ochsenhausen - Opferstock aufgebrochen / Ein Unbekannter machte in einer Kirche Beute.",
+   "datum": "20.07.2026",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "110974",
+   "pm": "4990967",
+   "titel": "POL-LB: Schönaich: Tabernakel beschädigt",
+   "datum": "20.07.2021",
+   "snippet": "",
+   "begriff": "Tabernakel"
+  },
+  {
+   "ds": "43558",
+   "pm": "5569298",
+   "titel": "POL-OH: Schwerer Diebstahl von sakralem Gegenstand aus Stadtpfarrkirche in Fulda",
+   "datum": "20.06.2023",
+   "snippet": "",
+   "begriff": "Tabernakel"
+  },
+  {
+   "ds": "14915",
+   "pm": "5253139",
+   "titel": "POL-MA: Ladenburg, Rhein-Neckar-Kreis: Opferstock in Kirche aufgebrochen",
+   "datum": "20.06.2022",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "4969",
+   "pm": "6281586",
+   "titel": "POL-DA: Lampertheim: Festnahme nach versuchtem Einbruch in Kirche/Drei Jugendliche unter Tatverdacht",
+   "datum": "20.05.2026",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "51056",
+   "pm": "6039014",
+   "titel": "POL-GE: Sakraler Gegenstand von Friedhof in Bismarck gestohlen - Zeugen gesucht",
+   "datum": "20.05.2025",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "110970",
+   "pm": "6017085",
+   "titel": "POL-FR: Lkr. Waldshut - Albbruck: Diebstahl aus Kirche",
+   "datum": "20.04.2025",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "59458",
+   "pm": "5913104",
+   "titel": "POL-WL: Kupferrohre von Kirche gestohlen ++ Buchholz - Verkehrsunfall mit leichtverletzter Person",
+   "datum": "19.11.2024",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "117688",
+   "pm": "4770156",
+   "titel": "POL-PDLU: Speyer - Einbruch in Kapelle",
+   "datum": "19.11.2020",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "126721",
+   "pm": "6375096",
+   "titel": "LPI-GTH: Diebstahl aus Kirche",
+   "datum": "19.10.2026",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "50153",
+   "pm": "5869434",
+   "titel": "POL-LM: +++Opferstock aus Kirche entwendet+++schwerer Diebstahl aus Pkw+++Reifen zerstochen+++Kennzeichenmißbrauch+++",
+   "datum": "19.09.2024",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "43648",
+   "pm": "5324591",
+   "titel": "POL-MR: + Diebe in Kirchen + Unfälle mit und ohne Promille + Drogenfahrer erwischt + Müll brennt + Kleidung gestohlen + Touran durchsucht + Einbruch scheitert +",
+   "datum": "19.09.2022",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "8",
+   "pm": "5325628",
+   "titel": "POL-DN: Täter verwüstet Kirche auf kuriose Weise",
+   "datum": "19.09.2022",
+   "begriff": "Kirche angezündet"
+  },
+  {
+   "ds": "117686",
+   "pm": "4973500",
+   "titel": "POL-PDLD: Germersheim - Kirchenfenster beschädigt",
+   "datum": "19.07.2021",
+   "snippet": "",
+   "begriff": "Tabernakel"
+  },
+  {
+   "ds": "65849",
+   "pm": "6199372",
+   "titel": "POL-KLE: Goch - Kupferdiebstahl an Kirche / Fallrohr entwendet",
+   "datum": "19.01.2026",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "57929",
+   "pm": "5695935",
+   "titel": "POL-NOM: Bargeld aus Kirche entwendet",
+   "datum": "19.01.2024",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "6006",
+   "pm": "5402661",
+   "titel": "POL-COE: Dülmen, Rorup, Kirchplatz / Opferstock entwendet",
+   "datum": "18.12.2022",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "110973",
+   "pm": "5911894",
+   "titel": "POL-KN: (Rottweil) Unbekannter begeht Sachbeschädigung in der Ruhe-Christi-Kirche- Polizei bittet um Hinweise (18.11.2024)",
+   "datum": "18.11.2024",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "117688",
+   "pm": "5563140",
+   "titel": "POL-PDLU: Einbruch in Kirche",
+   "datum": "18.07.2023",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "117698",
+   "pm": "5544915",
+   "titel": "POL-PDTR: Diebstahl aus Kirche",
+   "datum": "18.06.2023",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "117697",
+   "pm": "5255113",
+   "titel": "POL-PDWIL: Einbruch in die Kirche",
+   "datum": "18.06.2022",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "65849",
+   "pm": "6025431",
+   "titel": "POL-KLE: Opferstock aus Kirche entwendet",
+   "datum": "18.04.2025",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "118012",
+   "pm": "4613183",
+   "titel": "FW-PB: Dramatischer Kirchenbrand vor 50 Jahren / Feuerwehr Altenbeken veröffentlicht Film mit Augenzeugen",
+   "datum": "18.04.2017",
+   "snippet": "",
+   "begriff": "Tabernakel"
+  },
+  {
+   "ds": "50153",
+   "pm": "5957241",
+   "titel": "POL-LM: +++ diverse Einbrüche +++ Verstoß Waffenverbotszone +++ Körperverletzung +++ Diebstahl von Grabschmuck +++",
+   "datum": "18.01.2025",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "55625",
+   "pm": "5125672",
+   "titel": "POL-PB: Spendengelder aus Ebbinghäuser Kapelle gestohlen",
+   "datum": "18.01.2022",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "24843",
+   "pm": "4793941",
+   "titel": "POL-BOR: Schöppingen - Brand in Kirche",
+   "datum": "17.12.2020",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "104234",
+   "pm": "6140392",
+   "titel": "POL-EL: Meppen - Glasstäbe aus Kirchenfenster entwendet",
+   "datum": "17.10.2025",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "65841",
+   "pm": "6094664",
+   "titel": "POL-EU: Einbruch in Kirche - Unbekannte scheitern an Beute",
+   "datum": "17.07.2025",
+   "snippet": "",
+   "begriff": "Tabernakel"
+  },
+  {
+   "ds": "52209",
+   "pm": "6258631",
+   "titel": "POL-IZ: 260420.1 Wesselburen: Stehkerzenleuchter aus Kirche entwendet",
+   "datum": "17.04.2026",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "117709",
+   "pm": "5742164",
+   "titel": "POL-PDNR: Diebstahl des Opferstocks der St. Pterus Kirche",
+   "datum": "17.03.2024",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "43526",
+   "pm": "6238742",
+   "titel": "POL-ST: Steinfurt, Einbruch in Wegekapelle, Täter versuchen Opferstock aufzubrechen",
+   "datum": "17.02.2026",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "43562",
+   "pm": "5974735",
+   "titel": "POL-WI: +++ Regenbogenbanner an Kirche beschädigt+++Graffiti +++ Parkscheinautomat aufgebrochen+++Einbruch+++Diebstahl+++Vorsicht vor Trickbetrügern++ Wahlplakat beschmiert+++ Körperverletzung+++",
+   "datum": "17.02.2025",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "65849",
+   "pm": "6037072",
+   "titel": "POL-KLE: Emmerich - Diebstahl aus Kirche / Zeugen gesucht",
+   "datum": "16.05.2025",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "117683",
+   "pm": "5783469",
+   "titel": "POL-PPWP: Einbruch in Kirchen - Wer kann Hinweise geben?",
+   "datum": "16.05.2024",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "117686",
+   "pm": "5198706",
+   "titel": "POL-PDLD: Rheinzabern: Einbruch in Kapelle",
+   "datum": "16.04.2022",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "117698",
+   "pm": "5198309",
+   "titel": "POL-PDTR: Diebstahl aus Kirche",
+   "datum": "16.04.2022",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "169620",
+   "pm": "6224022",
+   "titel": "POL Schwaben Nord: Polizei ermittelt nach Diebstahl aus einer Kirche",
+   "datum": "16.02.2026",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "65849",
+   "pm": "5951645",
+   "titel": "POL-KLE: Kleve - Fenster und Tür beschädigt: Unbekannte Täter entwenden Tresor aus einer Kirche",
+   "datum": "16.01.2025",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "8",
+   "pm": "5418140",
+   "titel": "POL-DN: Unbekannte brechen in Kirche ein",
+   "datum": "16.01.2023",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "43562",
+   "pm": "5471729",
+   "titel": "POL-WI: Diebe in Kirche ertappt +++ Einbruch in Lagerraum +++ Schockanrufe gescheitert +++ Unfall mit drei Verletzten +++ Blitzerreport",
+   "datum": "15.03.2023",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "70090",
+   "pm": "5464073",
+   "titel": "POL-CLP: Neuenkirchen-Vörden - Einbruch: Ergänzung zum Tatort",
+   "datum": "15.03.2023",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "110974",
+   "pm": "6217761",
+   "titel": "POL-LB: Steinenbronn: Hoher Sachschaden nach Vandalismus in Kirche",
+   "datum": "15.02.2026",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "117709",
+   "pm": "5446028",
+   "titel": "POL-PDNR: Opferstock in einer Kirche aufgebrochen",
+   "datum": "15.02.2023",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "56520",
+   "pm": "5650699",
+   "titel": "POL-WOB: Diebstahl und Sachbeschädigung eines sakralen Gegenstandes im Kaiserdom - Polizei sucht Zeugen",
+   "datum": "14.11.2023",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "6013",
+   "pm": "6142859",
+   "titel": "POL-MFR: (996) Zeugenaufruf nach Diebstahl sakraler Gegenstände aus einer Kirche",
+   "datum": "14.10.2025",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "117712",
+   "pm": "6334302",
+   "titel": "POL-PDKO: Diebstahl von Kollekte Peter u. Paul Kirche Ko-Pfaffendorf",
+   "datum": "14.08.2026",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "65851",
+   "pm": "4948058",
+   "titel": "POL-NE: Erneute, mutmaßliche Brandstiftung an Kirche - Polizei sucht Zeugen",
+   "datum": "14.05.2021",
+   "begriff": "Kirche angezündet"
+  },
+  {
+   "ds": "57922",
+   "pm": "1080982",
+   "titel": "POL-NI: Polizeilicher Ermittlungserfolg: &quot;Grabpluenderer&quot; ermittelt",
+   "datum": "14.05.2007",
+   "begriff": "Friedhof geplündert"
+  },
+  {
+   "ds": "14915",
+   "pm": "5171670",
+   "titel": "POL-MA: Hirschberg-Leutershausen/Weinheim: Opferstockaufbrüche in zwei Kirchen; Zeugen gesucht",
+   "datum": "14.03.2022",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "43559",
+   "pm": "5146499",
+   "titel": "POL-GI: Handtasche nach Gottesdienst geraubt - Zeugenaufruf + Zweimal in kirchliche Einrichtung eingebrochen + Unfallbeteiligter verfolgt den Unfallflüchtigen",
+   "datum": "14.02.2022",
+   "begriff": "Kirche angezündet"
+  },
+  {
+   "ds": "65855",
+   "pm": "5950170",
+   "titel": "POL-SO: Warstein-Sichtigvor - Diebstahl aus Kirche",
+   "datum": "14.01.2025",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "117698",
+   "pm": "6159692",
+   "titel": "POL-PDTR: Aufbruch eines Opferstockes in der Pfarrkirche Temmels - Zeugen gesucht",
+   "datum": "13.11.2025",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "178881",
+   "pm": "6275975",
+   "titel": "POL-PIZW: Kupferfallrohre an Kirche entwendet",
+   "datum": "13.05.2026",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "68438",
+   "pm": "6275035",
+   "titel": "POL-DEL: Stadt Delmenhorst: Versuchte Brandstiftung in Kirchengebäude",
+   "datum": "13.05.2026",
+   "begriff": "Kirche angezündet"
+  },
+  {
+   "ds": "126720",
+   "pm": "5756757",
+   "titel": "LPI-G: Diebstahl aus Greizer Kirche",
+   "datum": "13.04.2024",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "42900",
+   "pm": "6236292",
+   "titel": "POL-RE: Bottrop: Mann nach Diebstahl an Kirche festgenommen",
+   "datum": "13.03.2026",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "126722",
+   "pm": "6217441",
+   "titel": "LPI-J: Dieb verursacht Brandschaden in Kirche",
+   "datum": "13.02.2026",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "108763",
+   "pm": "5454885",
+   "titel": "POL-LWL: Mehrere Sachbeschädigungen auf Friedhof in Dömitz",
+   "datum": "13.02.2023",
+   "snippet": "",
+   "begriff": "geschändet"
+  },
+  {
+   "ds": "55625",
+   "pm": "5124438",
+   "titel": "POL-PB: Kapellen-Einbrecher auf Fahndungsfoto",
+   "datum": "13.01.2022",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "6313",
+   "pm": "6179480",
+   "titel": "POL-FL: Breklum: Fahrzeug auf Kirchparkplatz beschädigt - Zeugenaufruf",
+   "datum": "12.12.2025",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "126723",
+   "pm": "5908204",
+   "titel": "LPI-NDH: Buntmetalldiebe mach auch vor Kirche nicht halt",
+   "datum": "12.11.2024",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "30127",
+   "pm": "5625496",
+   "titel": "POL-MG: Einbrüche in Pfarrbüro und Fahrschule",
+   "datum": "12.10.2023",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "110979",
+   "pm": "5603851",
+   "titel": "POL-UL: (BC) Unlingen - Dieb plündert Opferstock / Am Samstag soll ein 25-Jähriger Geld aus einer Kirche bei Unlingen gestohlen haben.",
+   "datum": "12.09.2023",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "117711",
+   "pm": "4678926",
+   "titel": "POL-PDMY: Diebstahl von Opferstock aus Kapelle",
+   "datum": "12.08.2020",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "110970",
+   "pm": "4492843",
+   "titel": "POL-FR: Elzach: Sachbeschädigung in der Pfarrkirche (Ursprungsmeldung)- Ergänzung",
+   "datum": "12.07.2019",
+   "begriff": "Kirche angezündet"
+  },
+  {
+   "ds": "24843",
+   "pm": "5220768",
+   "titel": "POL-BOR: Rhede - In Pfarrheim und Firma eingedrungen",
+   "datum": "12.05.2022",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "117709",
+   "pm": "6242207",
+   "titel": "POL-PDNR: Erneuter Diebstahlsversuch aus Kirche",
+   "datum": "12.03.2026",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "43526",
+   "pm": "4865012",
+   "titel": "POL-ST: Hörstel, versuchter Diebstahl aus Opferstock in Klosterkirche",
+   "datum": "12.03.2021",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "57929",
+   "pm": "1292159",
+   "titel": "POL-NOM: Brandstiftung in Kirche",
+   "datum": "12.03.2008",
+   "begriff": "Kirche angezündet"
+  },
+  {
+   "ds": "104234",
+   "pm": "6215986",
+   "titel": "POL-EL: Hilkenbrook - Kupferfallrohre von Kirche entwendet - Polizei sucht Zeugen",
+   "datum": "12.02.2026",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "65850",
+   "pm": "5932686",
+   "titel": "POL-MK: Hinter der Kapelle gezündelt - Diebstahl aus Pkw",
+   "datum": "11.12.2024",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "110979",
+   "pm": "4760885",
+   "titel": "POL-UL: (BC) Tannheim - Dieb in Kapelle / Hohen Sachschaden richtete vergangene Woche ein Unbekannter beim Aufbruch eines Opferstocks in Tannheim an.",
+   "datum": "11.11.2020",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "43561",
+   "pm": "4704275",
+   "titel": "POL-OF: Mann hat Stichverletzung - was ist passiert? * Wer sah den Dieb in der Kirche? * Autoknacker wurde sehr müde... *",
+   "datum": "11.09.2020",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "43558",
+   "pm": "6337141",
+   "titel": "POL-OH: Diebstahl aus PKW - Kennzeichen entwendet - Geld aus Kirche entwendet",
+   "datum": "11.08.2026",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "110971",
+   "pm": "6188119",
+   "titel": "POL-HN: Stadt- und Landkreis Heilbronn: Einbruch, Schaden durch Graffiti, Randalierer in Gewahrsam, Zeugen nach mutmaßlichem Messerstich gesucht, Tabernakel in Kirche Ziel von Dieben",
+   "datum": "11.08.2025",
+   "snippet": "",
+   "begriff": "Tabernakel"
+  },
+  {
+   "ds": "43558",
+   "pm": "5842036",
+   "titel": "POL-OH: E-Scooter entwendet - Sachbeschädigung an Kirche - Tasche entwendet - Besitzer von Fahrrad gesucht",
+   "datum": "11.08.2024",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "44150",
+   "pm": "4972387",
+   "titel": "POL-KB: Diemelsee-Heringhausen - Unbekannter bricht Opferstock in Kirche auf",
+   "datum": "11.07.2021",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "57922",
+   "pm": "6300334",
+   "titel": "POL-NI: Versuchter Kupferdiebstahl an Nienburger Kirche - Polizei bittet um Zeugenhinweise",
+   "datum": "11.06.2026",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "52209",
+   "pm": "6054801",
+   "titel": "POL-IZ: 250613.3 Itzehoe: Diebstahl an denkmalgeschützter Kirchentür - Zeugen gesucht",
+   "datum": "11.06.2025",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "50153",
+   "pm": "5508595",
+   "titel": "POL-LM: +++Wohnungseinbruchdiebstahl+++schwerer Diebstahl aus Kapelle+++Körperverletzungen+++Verkehrsunfälle-/Fluchten+++",
+   "datum": "11.05.2023",
+   "snippet": "",
+   "begriff": "Tabernakel"
+  },
+  {
+   "ds": "117709",
+   "pm": "6235009",
+   "titel": "POL-PDNR: Versuchter Diebstahl aus Kirche",
+   "datum": "11.03.2026",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "50153",
+   "pm": "5690791",
+   "titel": "POL-LM: +++ Toter nach Schwelbrand in Wohnhaus +++ In Kirche eingedrungen und Opferstock aufgebrochen +++ Einbruch in Gartenhütte und Garage +++ Schlägerei in Hinterhof +++",
+   "datum": "11.01.2024",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "59488",
+   "pm": "5928679",
+   "titel": "POL-LG: ++ Jacke aus Bekleidungsgeschäft gestohlen ++ Einbruch in Geschäftsstelle - versuchter Einbruch in Kirche ++ Mercedes Sprinter entwendet ++ Verkehrsunfall zwischen Trecker und Schulbus ++",
+   "datum": "10.12.2024",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "110973",
+   "pm": "4788885",
+   "titel": "POL-KN: (Beuren am Ried, Landkreis Konstanz) Opferstock in der St. Wendelin Kirche aufgebrochen und Bargeld entwendet (07. - 10.12.2020)",
+   "datum": "10.12.2020",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "65844",
+   "pm": "4808229",
+   "titel": "POL-HAM: Einbruch in St. Stephanuskirche",
+   "datum": "10.11.2020",
+   "snippet": "",
+   "begriff": "Tabernakel"
+  },
+  {
+   "ds": "110973",
+   "pm": "5841061",
+   "titel": "POL-KN: (Rottweil, Lkr.) Versuchter Diebstahl in Kirche (10.08.2024)",
+   "datum": "10.08.2024",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "104234",
+   "pm": "5090605",
+   "titel": "POL-EL: Meppen - Versuchter Aufbruch in Kirche",
+   "datum": "10.08.2021",
+   "snippet": "",
+   "begriff": "Tabernakel"
+  },
+  {
+   "ds": "117708",
+   "pm": "5970229",
+   "titel": "POL-PPMZ: Einbruch in Kirche und Gemeindehaus",
+   "datum": "10.02.2025",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "65849",
+   "pm": "4839549",
+   "titel": "POL-KLE: Kranenburg - Versuchter Diebstahl in Kirche / Geldkassette beschädigt",
+   "datum": "10.02.2021",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "104234",
+   "pm": "4862297",
+   "titel": "POL-EL: Spahnharrenstätte - Einbruch in Kirche",
+   "datum": "10.01.2021",
+   "snippet": "",
+   "begriff": "Tabernakel"
+  },
+  {
+   "ds": "110973",
+   "pm": "5927722",
+   "titel": "POL-KN: (VS-Villingen, Schwarzwald-Baar-Kreis) 39-Jährige bricht in Kirche ein (09.12.2024)",
+   "datum": "09.12.2024",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "110970",
+   "pm": "6156293",
+   "titel": "POL-FR: Wehr: Opferstock in Kirche aufgebrochen - Zeugen gesucht",
+   "datum": "09.11.2025",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "12727",
+   "pm": "5366194",
+   "titel": "POL-LIP: Bad Salzuflen-Schötmar. Opferstock aus Kirche gestohlen.",
+   "datum": "09.11.2022",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "13248",
+   "pm": "2135762",
+   "titel": "POL-D: Perfide Grabschänder in Wersten festgenommen",
+   "datum": "09.11.2007",
+   "begriff": "Friedhof geplündert"
+  },
+  {
+   "ds": "57929",
+   "pm": "4511471",
+   "titel": "POL-NOM: Opferstock in Münsterkirche aufgebrochen",
+   "datum": "09.10.2019",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "12727",
+   "pm": "5948957",
+   "titel": "POL-LIP: Horn-Bad Meinberg. Versuchter Diebstahl von Opferstöcken aus Kirche.",
+   "datum": "09.01.2025",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "43559",
+   "pm": "5694983",
+   "titel": "POL-GI: An Kirche randaliert + Trickdiebin macht Beute + Steuergerät geklaut + Werkzeuge aus Transporter mitgenommen + Kinderfahrrad gestohlen + Unfallfluchten",
+   "datum": "09.01.2024",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "110970",
+   "pm": "5094993",
+   "titel": "POL-FR: Jestetten: Opferstock aus Kirche gestohlen",
+   "datum": "08.12.2021",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "110979",
+   "pm": "5053026",
+   "titel": "POL-UL: (UL) Ulm - Einbruch in Kapelle / Die vergangenen Tage drang ein Unbekannter in eine Kapelle in Wiblingen ein.",
+   "datum": "08.10.2021",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "65843",
+   "pm": "5041304",
+   "titel": "POL-GM: 071021-783: Opferstock aus Kirche gestohlen",
+   "datum": "08.10.2021",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "59457",
+   "pm": "6356131",
+   "titel": "POL-CE: Kupferfallrohre von Kirche entwendet - Zeugenaufruf",
+   "datum": "08.09.2026",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "154582",
+   "pm": "6113565",
+   "titel": "Mittelhessen: STADT+KREIS GIEßEN: Dreister Dieb in Kirche + Einbruch in Kita",
+   "datum": "08.09.2025",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "65849",
+   "pm": "6114650",
+   "titel": "POL-KLE: Goch - Kupferfallrohre an einer Kirche entwendet: Zeugen gesucht",
+   "datum": "08.09.2025",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "110976",
+   "pm": "5819265",
+   "titel": "POL-RT: Verkehrsunfälle; Randalierer; Streitigkeiten; Diebstahl in Kapelle;",
+   "datum": "08.07.2024",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "14915",
+   "pm": "5820987",
+   "titel": "POL-MA: Wiesenbach/Rhein-Neckar-Kreis: Erneuter Diebstahl von Kupferrohren an Marienkapelle - Zeugen gesucht!",
+   "datum": "08.07.2024",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "23127",
+   "pm": "4964292",
+   "titel": "POL-GT: Brandstiftung und Grabschändung am Friedhofsweg - Polizei sucht Zeugen",
+   "datum": "08.04.2021",
+   "snippet": "",
+   "begriff": "geschändet"
+  },
+  {
+   "ds": "110971",
+   "pm": "5946543",
+   "titel": "POL-HN: Main-Tauber-Kreis: Unfallflucht mit entflohenen Rindern und ein Diebstahl aus einer Kirche",
+   "datum": "08.01.2025",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "24843",
+   "pm": "5688046",
+   "titel": "POL-BOR: Bahnhof Reken - Diebstahl aus Kirche",
+   "datum": "08.01.2024",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "110975",
+   "pm": "5119912",
+   "titel": "POL-OG: Sasbach - Diebstahl aus Kirche, Hinweise erbeten",
+   "datum": "08.01.2022",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "110979",
+   "pm": "5093949",
+   "titel": "POL-UL: (BC) Rot der der Rot - Dieb scheitert am Opferstock / In den letzten Tagen versuchte ein Unbekannter in einer Roter Kirche Beute zu machen.",
+   "datum": "07.12.2021",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "8",
+   "pm": "6274465",
+   "titel": "POL-DN: Erneut mehrere Diebstähle auf dem Friedhof Ellen",
+   "datum": "07.11.2025",
+   "snippet": "",
+   "begriff": "geschändet"
+  },
+  {
+   "ds": "65843",
+   "pm": "6153443",
+   "titel": "POL-GM: Sakraler Gegenstand gestohlen",
+   "datum": "07.11.2025",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "13248",
+   "pm": "5885451",
+   "titel": "POL-D: Altstadt - Mann plündert Opferstock in Kirche - Haftrichter",
+   "datum": "07.10.2024",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "43738",
+   "pm": "5275936",
+   "titel": "POL-HL: OH-Timmendorfer Strand / Opferstock aus Kirche in Timmendorfer Strand entwendet",
+   "datum": "07.07.2022",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "110976",
+   "pm": "3395019",
+   "titel": "POL-RT: Dankbar trotz Anzeige, Tabernakel aufgefunden, Unfall, Brand",
+   "datum": "07.07.2016",
+   "snippet": "",
+   "begriff": "Tabernakel"
+  },
+  {
+   "ds": "110970",
+   "pm": "5221710",
+   "titel": "POL-FR: Efringen-Kirchen: Opferstock versucht aufzubrechen - hoher Schaden",
+   "datum": "07.05.2022",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "52209",
+   "pm": "5968849",
+   "titel": "POL-IZ: 250211.4 Büsum: Besonders schwerer Fall des Diebstahls aus Kirche",
+   "datum": "07.02.2025",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "110975",
+   "pm": "5142578",
+   "titel": "POL-OG: Oberkirch - In Seniorenheim eingebrochen, Hinweise erbeten",
+   "datum": "07.02.2022",
+   "snippet": "",
+   "begriff": "Tabernakel"
+  },
+  {
+   "ds": "110976",
+   "pm": "3372448",
+   "titel": "POL-RT: Zündelndes Kind; Unfälle; Streit in Flüchtlingsunterkunft; Sachbeschädigungen; Exhibitionist festgenommen; Von Zug überrollt; Diebstahl aus Kirche; Suchaktion mit Hubschrauber und Boot",
+   "datum": "06.12.2015",
+   "snippet": "",
+   "begriff": "Tabernakel"
+  },
+  {
+   "ds": "117686",
+   "pm": "5607237",
+   "titel": "POL-PDLD: Steinfeld - Brand in Protestantischen Kirche",
+   "datum": "06.09.2023",
+   "begriff": "Kirche angezündet"
+  },
+  {
+   "ds": "65848",
+   "pm": "5817993",
+   "titel": "POL-HX: Opferstock an Kirche aufgebrochen - Zeugen gesucht",
+   "datum": "06.07.2024",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "11559",
+   "pm": "6063132",
+   "titel": "POL-AC: Ermittlungen nach Sachbeschädigung in der Kapelle",
+   "datum": "06.06.2025",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "4969",
+   "pm": "5796561",
+   "titel": "POL-DA: Lorsch: Nach Diebstahl in Kirche/Vier Jugendliche unter Tatverdacht-Polizei prüft Zusammenhang mit weiteren Taten",
+   "datum": "06.06.2024",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "50154",
+   "pm": "6270924",
+   "titel": "POL-MTK: Wohnungsbrand +++ Kupferkabeldiebstahl von Firmengelände +++ Kirchenfenster beschädigt +++ Diebstahl aus Fahrzeug",
+   "datum": "06.05.2026",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "117697",
+   "pm": "4857294",
+   "titel": "POL-PDWIL: Aufbruch von Opferstock in Kapelle",
+   "datum": "06.03.2021",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "65847",
+   "pm": "4857037",
+   "titel": "POL-HSK: Diebstahl aus einer Kirche in Eversberg",
+   "datum": "06.03.2021",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "117679",
+   "pm": "4564274",
+   "titel": "POL-PDKL: Diebstahl aus Kirche",
+   "datum": "06.03.2020",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "110970",
+   "pm": "5411872",
+   "titel": "POL-FR: Einbruch in Kirche",
+   "datum": "06.01.2023",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "104234",
+   "pm": "5941963",
+   "titel": "POL-EL: Papenburg - Diebstahl aus Kirche",
+   "datum": "05.12.2024",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "65858",
+   "pm": "5071767",
+   "titel": "POL-WES: Wesel - Ist ihnen nichts mehr heilig? Diebe stehlen &quot;Maria mit Kind&quot; aus Kirche",
+   "datum": "05.11.2021",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "110970",
+   "pm": "6329369",
+   "titel": "POL-FR: Steinen-Höllstein: Diebstahl aus Kirche",
+   "datum": "05.08.2026",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "43526",
+   "pm": "5837953",
+   "titel": "POL-ST: Hörstel, Bronzediebstahl an Kirche",
+   "datum": "05.08.2024",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "6006",
+   "pm": "5290445",
+   "titel": "POL-COE: Nottuln, Kirchplatz/ Opferstock aufgebrochen",
+   "datum": "05.08.2022",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "126722",
+   "pm": "6027945",
+   "titel": "LPI-J: Diebstahl aus Kirchengebäude",
+   "datum": "05.05.2025",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "43561",
+   "pm": "5220596",
+   "titel": "POL-OF: Gerüsttransporter war zu schwer; Verkehrsschilder wurden beschädigt; Vandalismus in Kirche und mehr",
+   "datum": "05.05.2022",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "14915",
+   "pm": "6196779",
+   "titel": "POL-MA: Mannheim: Kaffee aus Kirche entwendet - Zeugenaufruf",
+   "datum": "05.01.2026",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "50153",
+   "pm": "6346139",
+   "titel": "POL-LM: Einbruch in Kirche +++ Opferstock an Kapelle entwendet +++ Widerstand gegen Polizeibeamte +++ Bronzekreuz gestohlen",
+   "datum": "04.09.2026",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "65845",
+   "pm": "5865398",
+   "titel": "POL-HS: Sachbeschädigung in Kirche",
+   "datum": "04.09.2024",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "110976",
+   "pm": "5795350",
+   "titel": "POL-RT: Diebstahl in Kirche; Streitigkeiten; Einbrüche; Exhibitionist; Verkehrsunfälle; Fahrzeugbrand; Trickdiebe; Autoaufbruch",
+   "datum": "04.06.2024",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "117710",
+   "pm": "4935449",
+   "titel": "POL-PDMT: Opferstock in Kirche aufgebrochen",
+   "datum": "04.06.2021",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "43558",
+   "pm": "6268322",
+   "titel": "POL-OH: Kirchendiebstahl- Kennzeichen und Rollerdiebstahl- Raub -Körperverletzung - Sachbeschädigung - Vandalismus - Einbruch Schule - Tageswohnungseinbruch - Autoaufbruch - Umhängetasche gestohlen",
+   "datum": "04.05.2026",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "4969",
+   "pm": "6025771",
+   "titel": "POL-DA: Weiterstadt/ Gräfenhausen: Diebstahl und Sachbeschädigung in Evangelischer Kirche/ Kriminalpolizei ermittelt",
+   "datum": "04.05.2025",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "137462",
+   "pm": "5943423",
+   "titel": "POL-Pforzheim: (FDS) Eutingen im Gäu - Opferstock in Weitinger Kapelle aufgebrochen",
+   "datum": "04.01.2025",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "52209",
+   "pm": "6151151",
+   "titel": "POL-IZ: 251104.1 Lunden / Pahlen: Kupferdiebstähle von Kirchen in Lunden und Pahlen - Polizei sucht Zeugen",
+   "datum": "03.11.2025",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "110969",
+   "pm": "6110436",
+   "titel": "POL-AA: Rems-Murr-Kreis: Zeugen nach Auseinandersetzung gesucht - Verkehrsunfälle - Betrug durch falsche Bankmitarbeiter - Versuchter Diebstahl und Vandalismus in Kirche",
+   "datum": "03.09.2025",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "50153",
+   "pm": "5596936",
+   "titel": "POL-LM: +++ Auto aufgebrochen +++ Versuchter Einbruch in Kirche +++ Wohnhausbrand +++ Motorrollerfahrer fährt ohne Führerschein und verletzt sich bei Unfall +++",
+   "datum": "03.09.2023",
+   "begriff": "Kirche angezündet"
+  },
+  {
+   "ds": "117715",
+   "pm": "4986681",
+   "titel": "POL-PPKO: Opferstock in der Liebfrauenkirche aufgebrochen",
+   "datum": "03.08.2021",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "68442",
+   "pm": "4985724",
+   "titel": "POL-WHV: Diebstahl eines Kerzenleuchters mit Opferstock aus der Banter Kirche (mit Bild)",
+   "datum": "03.08.2021",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "117701",
+   "pm": "3614639",
+   "titel": "POL-PPTR: Tabernakel aus Sakristei gestohlen",
+   "datum": "03.08.2016",
+   "snippet": "",
+   "begriff": "Tabernakel"
+  },
+  {
+   "ds": "65851",
+   "pm": "4717638",
+   "titel": "POL-NE: Diebe stehlen sakrale Gegenstände aus Kirche",
+   "datum": "03.06.2020",
+   "snippet": "",
+   "begriff": "Tabernakel"
+  },
+  {
+   "ds": "43738",
+   "pm": "6267722",
+   "titel": "POL-HL: Ostholstein - Grube / Diebstahl aus St. Jürgen Kirche in Grube - Polizei sucht Zeugen",
+   "datum": "03.05.2026",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "110971",
+   "pm": "6009296",
+   "titel": "POL-HN: Hohenlohekreis: Sachbeschädigung und Diebstahl in Kirche, Rauchentwicklung in Firmengebäude",
+   "datum": "03.04.2025",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "117698",
+   "pm": "5984553",
+   "titel": "POL-PDTR: Versuchter Aufbruch eines Opferstocks in der Löschemer Kapelle in Wasserliesch",
+   "datum": "03.02.2025",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "110973",
+   "pm": "6364933",
+   "titel": "POL-KN: (Bad Dürrheim / Schwarzwald Baar Kreis) Einbruch in Kirche an der Schulstraße (02.10.2026)",
+   "datum": "02.10.2026",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "50153",
+   "pm": "5856904",
+   "titel": "POL-LM: +++ Passanten mit Waffe bedroht +++ Diebstahl aus Kirche +++ Verkehrsunfall mit Personenschaden +++ Kontrollen &quot;Sichere Innenstadt&quot;",
+   "datum": "02.09.2024",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "43648",
+   "pm": "5526321",
+   "titel": "POL-MR: Heckscheibenwischer abgerissen + Einbrüche gescheitert + Sachbeschädigung + Alkohol gestohlen + Motorroller gestohlen + Versuchter Diebstahl in der Kirche + ABS Modulator gestohlen",
+   "datum": "02.06.2023",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "65850",
+   "pm": "5169862",
+   "titel": "POL-MK: Einbruch in Kreuzkirche/Brennendes Feld/Patient verletzt Krankenschwester/43-Jähriger kommt Platzverweis nicht nach/Spiegel an geparkten Autos abgetreten/Ladendiebin festgenommen",
+   "datum": "02.03.2022",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "110969",
+   "pm": "5615939",
+   "titel": "POL-AA: Rems-Murr-Kreis - Stand: 01.10.2023/11:00 Uhr - 4 Verkehrsunfälle, 1 Brand, 1 Körperverletzung, 1 Sachbeschädigung/Grabschändung",
+   "datum": "01.10.2023",
+   "snippet": "",
+   "begriff": "geschändet"
+  },
+  {
+   "ds": "117697",
+   "pm": "4724137",
+   "titel": "POL-PDWIL: Opferstockaufbruch in Pfarrkirche",
+   "datum": "01.10.2020",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "110969",
+   "pm": "5313676",
+   "titel": "POL-AA: Rems-Murr-Kreis: Holzdiebstahl - Opfergeld beim Friedhof Korb entwendet - Polizeibeamtin leicht verletzt - Unfall",
+   "datum": "01.09.2022",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "24843",
+   "pm": "4958342",
+   "titel": "POL-BOR: Heiden - Opferstock in Kirche angegangen",
+   "datum": "01.07.2021",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "117697",
+   "pm": "5526944",
+   "titel": "POL-PDWIL: versuchter Diebstahl aus Kapelle (Opferstock)",
+   "datum": "01.06.2023",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "117697",
+   "pm": "5187579",
+   "titel": "POL-PDWIL: Einbruchsdiebstahl und Randale in der Kirche in Dreis-Brück",
+   "datum": "01.04.2022",
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "65848",
+   "pm": "4888903",
+   "titel": "POL-HX: Zier-Orgelpfeifen in Kirche zerstört",
+   "datum": "01.04.2021",
+   "begriff": "Kirche angezündet"
+  },
+  {
+   "ds": "117709",
+   "pm": "5959507",
+   "titel": "POL-PDNR: Diebstahl aus einer Spendenbox in der katholischen Kirche St. Martin in Linz",
+   "datum": "01.01.2025",
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "117686",
+   "pm": "5028149",
+   "titel": "POL-PDLD: Germersheim - Opferstock in Kirche aufgebrochen",
+   "datum": null,
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "65845",
+   "pm": "4888833",
+   "titel": "POL-HS: Bargeld aus Kapelle gestohlen",
+   "datum": null,
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "110970",
+   "pm": "4365810",
+   "titel": "POL-FR: Zell i.W. / Pfaffenberg: Opferstock an Kapelle aufgebrochen",
+   "datum": null,
+   "snippet": "",
+   "begriff": "Opferstock"
+  },
+  {
+   "ds": "8",
+   "pm": "3194855",
+   "titel": "POL-DN: Einbruch in Lucherberger Kirche",
+   "datum": null,
+   "snippet": "",
+   "begriff": "Tabernakel"
+  },
+  {
+   "ds": "117709",
+   "pm": "6153305",
+   "titel": "POL-PDNR: Diebstahl von Regenrinnen an Kirchengebäude",
+   "datum": null,
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  },
+  {
+   "ds": "4969",
+   "pm": "5728900",
+   "titel": "POL-DA: Mörfelden-Walldorf: Diebstahl in Kirche",
+   "datum": null,
+   "snippet": "",
+   "begriff": "Kirche Diebstahl"
+  }
+ ]
+}

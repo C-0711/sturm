@@ -1,0 +1,48 @@
+{
+ "term": "Friedhof geplündert",
+ "bis": "12.09.2001",
+ "faelle": [
+  {
+   "ds": "65850",
+   "pm": "6075824",
+   "titel": "POL-MK: Autos geplündert",
+   "datum": "04.07.2025"
+  },
+  {
+   "ds": "65850",
+   "pm": "6069625",
+   "titel": "POL-MK: Auto geplündert",
+   "datum": "17.02.2025"
+  },
+  {
+   "ds": "65850",
+   "pm": "5972193",
+   "titel": "POL-MK: Dieb gestellt, Frau angegriffen, Einbruch und Diebstahl",
+   "datum": "25.11.2024"
+  },
+  {
+   "ds": "104235",
+   "pm": "5298932",
+   "titel": "POL-LER: Pressemitteilung der Polizeiinspektion Leer/Emden vom 17.08.2022",
+   "datum": "17.08.2022"
+  },
+  {
+   "ds": "13248",
+   "pm": "2135762",
+   "titel": "POL-D: Perfide Grabschänder in Wersten festgenommen",
+   "datum": "09.11.2007"
+  },
+  {
+   "ds": "57922",
+   "pm": "1080982",
+   "titel": "POL-NI: Polizeilicher Ermittlungserfolg: &quot;Grabpluenderer&quot; ermittelt",
+   "datum": "14.05.2007"
+  },
+  {
+   "ds": "57922",
+   "pm": "985696",
+   "titel": "POL-NI: Graeber beschaedigt",
+   "datum": "12.09.2001"
+  }
+ ]
+}
