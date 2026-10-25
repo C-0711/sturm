@@ -61,6 +61,32 @@
 
 **Diebstahl verdoppelt sich** 2020→2024 (10→37) und bleibt 2025 auf Höchststand (40). Brandstiftung ist über alle Jahre **statisch bei 1–2 PMs/Jahr** — die mediale Aufmerksamkeit für Brände steht im umgekehrten Verhältnis zur Häufigkeit.
 
+## Regionale Verteilung (wo die 286 PMs herkommen)
+
+Gezählt nach POL-Dienststellen-Kürzel im Titel (91 % zugeordnet):
+
+| Land | PMs | PMs je 1 Mio. Einwohner |
+|---|---|---|
+| **Nordrhein-Westfalen** | **83** | 4,6 |
+| Baden-Württemberg | 59 | 5,3 |
+| **Rheinland-Pfalz** | 44 | **10,7** (höchste Dichte!) |
+| Hessen | 32 | 5,1 |
+| Niedersachsen | 29 | 3,6 |
+| Schleswig-Holstein | 9 | 3,1 |
+| Thüringen | 7 | 3,3 |
+| Mecklenburg-Vorpommern | 6 | 3,8 |
+| Sachsen-Anhalt | 4 | 1,8 |
+| Sachsen | 3 | 0,7 |
+| Hamburg | 3 | 1,6 |
+| **Bayern** | **10** | **0,8** (systematisch untererfasst — s. u.) |
+
+**Gruppen:** West/Süd (BW+NRW+HE+RP) 75 % · Nord (NI+SH+HH) 14 % · Ost (SN+ST+TH+MV) 6 % · Bayern 3 %
+
+**Zwei wichtige Caveats:**
+
+1. **Bayern-Sonderfall:** Die bayerische Polizei publiziert Kirchen-Fälle fast ausschließlich über ihre eigene Pressestelle (pressestelle.polizei.bayern.de) und ots direkt an Lokalredaktionen — presseportal erfasst nur einen Bruchteil (10/286). Die Bayern-Zahl 0,8 PM/1M EW ist ein **Publikations-Artefakt**, nicht ein Kriminalitäts-Befund; real läge Bayern auf NRW/BW-Niveau (belegt durch die OIDAC-Bayern-Fälle Grafing/Dettelbach/Gutenstetten/Senden/Lindenberg, die alle nur in Lokalpresse stehen). Details: [`bayern-sonderfall.md`](bayern-sonderfall.md).
+2. **Rheinland-Pfalz Spitzenwert** (10,7 PM/1M EW — doppelt so hoch wie NRW): teils echte Häufung (Tabernakel-Serie Filsen, Opferstock-Welle Mai 2025), teils besonders transparente PD-Pressearbeit (PDMT/PDKO/PPMZ melden kleinste Fälle). Beides zusammen ist der Befund: Hier wird sichtbar, was anderswo dunkel bleibt.
+
 ## Was der Crawl für das Wiki bedeutet
 
 1. **286 verifizierte PRIMÄR-Fälle** — das Opfer-Register hat sich von 30 Stichproben auf 286 vollzählte PMs vervielfacht, jede mit Fallnummer und URL.

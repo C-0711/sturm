@@ -9,7 +9,8 @@
    "datum": "31.12.2021",
    "snippet": "",
    "begriff": "geschändet",
-   "delikt": "Sachbeschädigung"
+   "delikt": "Sachbeschädigung",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "30835",
@@ -18,7 +19,8 @@
    "datum": "31.12.2021",
    "snippet": "",
    "begriff": "geschändet",
-   "delikt": "Sachbeschädigung"
+   "delikt": "Sachbeschädigung",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "110979",
@@ -27,7 +29,8 @@
    "datum": "31.07.2025",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Andere/unklar"
+   "delikt": "Andere/unklar",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "104234",
@@ -35,7 +38,8 @@
    "titel": "POL-EL: Lingen - Polizei klärt mehrere Sachbeschädigungen in Kirchen auf",
    "datum": "31.07.2025",
    "begriff": "Kirche angezündet",
-   "delikt": "Sachbeschädigung"
+   "delikt": "Sachbeschädigung",
+   "land_kuerzel": "NI"
   },
   {
    "ds": "108767",
@@ -43,7 +47,8 @@
    "titel": "POL-HST: Sachbeschädigungen in Göhrener Kirche",
    "datum": "31.07.2025",
    "begriff": "Kirche angezündet",
-   "delikt": "Sachbeschädigung"
+   "delikt": "Sachbeschädigung",
+   "land_kuerzel": "MV"
   },
   {
    "ds": "47764",
@@ -52,7 +57,8 @@
    "datum": "31.07.2023",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "RP"
   },
   {
    "ds": "65849",
@@ -61,7 +67,8 @@
    "datum": "31.01.2026",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "110979",
@@ -70,7 +77,8 @@
    "datum": "30.12.2022",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "104234",
@@ -79,7 +87,8 @@
    "datum": "30.12.2020",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Einbruch"
+   "delikt": "Einbruch",
+   "land_kuerzel": "NI"
   },
   {
    "ds": "108746",
@@ -88,7 +97,8 @@
    "datum": "30.09.2024",
    "snippet": "",
    "begriff": "geschändet",
-   "delikt": "Sachbeschädigung"
+   "delikt": "Sachbeschädigung",
+   "land_kuerzel": "MV"
   },
   {
    "ds": "117697",
@@ -97,7 +107,8 @@
    "datum": "30.09.2023",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "RP"
   },
   {
    "ds": "8",
@@ -106,7 +117,8 @@
    "datum": "30.08.2022",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "65849",
@@ -115,7 +127,8 @@
    "datum": "30.07.2025",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "110970",
@@ -123,7 +136,8 @@
    "titel": "POL-FR: Emmendingen: Sachbeschädigung an der Stadtkirche",
    "datum": "30.07.2025",
    "begriff": "Kirche angezündet",
-   "delikt": "Sachbeschädigung"
+   "delikt": "Sachbeschädigung",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "117711",
@@ -132,7 +146,8 @@
    "datum": "30.05.2026",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "RP"
   },
   {
    "ds": "12726",
@@ -141,7 +156,8 @@
    "datum": "30.04.2026",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "65850",
@@ -150,7 +166,8 @@
    "datum": "30.04.2023",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "65849",
@@ -159,7 +176,8 @@
    "datum": "30.03.2025",
    "snippet": "",
    "begriff": "Tabernakel",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "8",
@@ -168,7 +186,8 @@
    "datum": "30.01.2025",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "117709",
@@ -177,7 +196,8 @@
    "datum": "30.01.2022",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "RP"
   },
   {
    "ds": "30127",
@@ -186,7 +206,8 @@
    "datum": "29.07.2023",
    "snippet": "",
    "begriff": "Tabernakel",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "57895",
@@ -195,7 +216,8 @@
    "datum": "29.07.2021",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "SH"
   },
   {
    "ds": "12522",
@@ -204,7 +226,8 @@
    "datum": "29.05.2023",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Einbruch"
+   "delikt": "Einbruch",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "65841",
@@ -213,7 +236,8 @@
    "datum": "29.03.2026",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "104234",
@@ -222,7 +246,8 @@
    "datum": "28.12.2024",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NI"
   },
   {
    "ds": "55625",
@@ -231,7 +256,8 @@
    "datum": "28.12.2020",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "110972",
@@ -240,7 +266,8 @@
    "datum": "28.12.2020",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "110979",
@@ -249,7 +276,8 @@
    "datum": "28.11.2024",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "117710",
@@ -258,7 +286,8 @@
    "datum": "28.08.2023",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "RP"
   },
   {
    "ds": "57929",
@@ -267,7 +296,8 @@
    "datum": "28.06.2025",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NI"
   },
   {
    "ds": "4969",
@@ -276,7 +306,8 @@
    "datum": "28.05.2024",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "HE"
   },
   {
    "ds": "126724",
@@ -285,7 +316,8 @@
    "datum": "28.03.2026",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "SN"
   },
   {
    "ds": "117708",
@@ -293,7 +325,8 @@
    "titel": "POL-PPMZ: Nieder-Ingelheim - Vandalismus in der Kirche - Zeugen gesucht",
    "datum": "28.03.2020",
    "begriff": "Kirche angezündet",
-   "delikt": "Andere/unklar"
+   "delikt": "Andere/unklar",
+   "land_kuerzel": "RP"
   },
   {
    "ds": "65850",
@@ -301,7 +334,8 @@
    "titel": "POL-MK: Kontrolleur angegriffen - Kunden bestohlen - Kirche beschmiert",
    "datum": "27.12.2023",
    "begriff": "Kirche angezündet",
-   "delikt": "Sachbeschädigung"
+   "delikt": "Sachbeschädigung",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "44149",
@@ -310,7 +344,8 @@
    "datum": "27.11.2020",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "HE"
   },
   {
    "ds": "12727",
@@ -319,7 +354,8 @@
    "datum": "27.10.2023",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "59488",
@@ -327,7 +363,8 @@
    "titel": "POL-LG: ++ Festnahme eines Tatverdächtigen nach Brand in einer Kirche ++ Psychisch auffälliger Mann am Brandort gesehen ++ Ermittlungen der Polizei dauern an ++",
    "datum": "27.06.2026",
    "begriff": "Kirche angezündet",
-   "delikt": "Gewalt/Bedrohung"
+   "delikt": "Gewalt/Bedrohung",
+   "land_kuerzel": "NI"
   },
   {
    "ds": "59460",
@@ -336,7 +373,8 @@
    "datum": "27.05.2026",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "HH"
   },
   {
    "ds": "110973",
@@ -345,7 +383,8 @@
    "datum": "27.05.2024",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Andere/unklar"
+   "delikt": "Andere/unklar",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "43553",
@@ -353,7 +392,8 @@
    "titel": "POL-MI: Fürbittenbuch aus Gehlenbecker Kirche gestohlen",
    "datum": "27.04.2018",
    "begriff": "Kirche angezündet",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "117711",
@@ -362,7 +402,8 @@
    "datum": "27.02.2020",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "RP"
   },
   {
    "ds": "110969",
@@ -371,7 +412,8 @@
    "datum": "27.01.2025",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "110970",
@@ -380,7 +422,8 @@
    "datum": "26.12.2024",
    "snippet": "",
    "begriff": "Tabernakel",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "50153",
@@ -389,7 +432,8 @@
    "datum": "26.12.2024",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "HE"
   },
   {
    "ds": "10374",
@@ -398,7 +442,8 @@
    "datum": "26.12.2022",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Einbruch"
+   "delikt": "Einbruch",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "65841",
@@ -406,7 +451,8 @@
    "titel": "POL-EU: Kirchentür angezündet",
    "datum": "26.12.2020",
    "begriff": "Kirche angezündet",
-   "delikt": "Brandstiftung"
+   "delikt": "Brandstiftung",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "117697",
@@ -415,7 +461,8 @@
    "datum": "26.10.2024",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "RP"
   },
   {
    "ds": "65845",
@@ -424,7 +471,8 @@
    "datum": "26.10.2020",
    "snippet": "",
    "begriff": "Tabernakel",
-   "delikt": "Einbruch"
+   "delikt": "Einbruch",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "117697",
@@ -433,7 +481,8 @@
    "datum": "26.09.2023",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "RP"
   },
   {
    "ds": "6313",
@@ -442,7 +491,8 @@
    "datum": "26.09.2021",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "SH"
   },
   {
    "ds": "126724",
@@ -451,7 +501,8 @@
    "datum": "26.08.2026",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "SN"
   },
   {
    "ds": "117709",
@@ -460,7 +511,8 @@
    "datum": "26.07.2022",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "RP"
   },
   {
    "ds": "43558",
@@ -469,7 +521,8 @@
    "datum": "26.05.2026",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "HE"
   },
   {
    "ds": "65844",
@@ -478,7 +531,8 @@
    "datum": "26.04.2022",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "HH"
   },
   {
    "ds": "65849",
@@ -487,7 +541,8 @@
    "datum": "26.04.2022",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "65843",
@@ -496,7 +551,8 @@
    "datum": "26.03.2024",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "110975",
@@ -505,7 +561,8 @@
    "datum": "26.01.2025",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "43777",
@@ -514,7 +571,8 @@
    "datum": "26.01.2025",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "117697",
@@ -523,7 +581,8 @@
    "datum": "26.01.2021",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "RP"
   },
   {
    "ds": "110969",
@@ -532,7 +591,8 @@
    "datum": "25.11.2025",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "8",
@@ -541,7 +601,8 @@
    "datum": "25.11.2023",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Andere/unklar"
+   "delikt": "Andere/unklar",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "65849",
@@ -549,7 +610,8 @@
    "titel": "POL-KLE: Emmerich - Sachbeschädigungen in Kirche /Zeugen gesucht",
    "datum": "25.10.2021",
    "begriff": "Kirche angezündet",
-   "delikt": "Sachbeschädigung"
+   "delikt": "Sachbeschädigung",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "117710",
@@ -558,7 +620,8 @@
    "datum": "25.10.2020",
    "snippet": "",
    "begriff": "Tabernakel",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "RP"
   },
   {
    "ds": "65843",
@@ -567,7 +630,8 @@
    "datum": "25.08.2021",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Andere/unklar"
+   "delikt": "Andere/unklar",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "110979",
@@ -576,7 +640,8 @@
    "datum": "25.06.2025",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "117687",
@@ -584,7 +649,8 @@
    "titel": "POL-PDNW: (Bad Dürkheim) - Zeitschrift in Kirche angezündet",
    "datum": "25.06.2023",
    "begriff": "Kirche angezündet",
-   "delikt": "Brandstiftung"
+   "delikt": "Brandstiftung",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "169620",
@@ -593,7 +659,8 @@
    "datum": "25.05.2026",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": null
   },
   {
    "ds": "4969",
@@ -602,7 +669,8 @@
    "datum": "25.04.2024",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "HE"
   },
   {
    "ds": "110970",
@@ -611,7 +679,8 @@
    "datum": "25.04.2022",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Einbruch"
+   "delikt": "Einbruch",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "43526",
@@ -619,7 +688,8 @@
    "titel": "POL-ST: Hörstel, Unbekannte zündeln an Antoniuskirche, Infotafel beschädigt",
    "datum": "25.04.2022",
    "begriff": "Kirche angezündet",
-   "delikt": "Sachbeschädigung"
+   "delikt": "Sachbeschädigung",
+   "land_kuerzel": "ST"
   },
   {
    "ds": "68438",
@@ -628,7 +698,8 @@
    "datum": "25.03.2024",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Einbruch"
+   "delikt": "Einbruch",
+   "land_kuerzel": "NI"
   },
   {
    "ds": "13248",
@@ -637,7 +708,8 @@
    "datum": "25.01.2022",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "110972",
@@ -645,7 +717,8 @@
    "titel": "POL-KA: (KA) Karlsruhe - Sachbeschädigung in Kirche",
    "datum": "24.12.2020",
    "begriff": "Kirche angezündet",
-   "delikt": "Sachbeschädigung"
+   "delikt": "Sachbeschädigung",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "50154",
@@ -654,7 +727,8 @@
    "datum": "24.11.2025",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "HE"
   },
   {
    "ds": "117686",
@@ -663,7 +737,8 @@
    "datum": "24.09.2023",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "RP"
   },
   {
    "ds": "14915",
@@ -672,7 +747,8 @@
    "datum": "24.06.2024",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "65851",
@@ -681,7 +757,8 @@
    "datum": "24.03.2023",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "117698",
@@ -690,7 +767,8 @@
    "datum": "24.02.2021",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "RP"
   },
   {
    "ds": "24843",
@@ -699,7 +777,8 @@
    "datum": "24.01.2024",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "117697",
@@ -708,7 +787,8 @@
    "datum": "23.09.2021",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "RP"
   },
   {
    "ds": "50153",
@@ -717,7 +797,8 @@
    "datum": "23.07.2023",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "HE"
   },
   {
    "ds": "59488",
@@ -726,7 +807,8 @@
    "datum": "23.06.2025",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NI"
   },
   {
    "ds": "68439",
@@ -735,7 +817,8 @@
    "datum": "23.03.2024",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NI"
   },
   {
    "ds": "65843",
@@ -744,7 +827,8 @@
    "datum": "23.01.2025",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "65854",
@@ -753,7 +837,8 @@
    "datum": "22.12.2025",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Andere/unklar"
+   "delikt": "Andere/unklar",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "110970",
@@ -762,7 +847,8 @@
    "datum": "22.12.2023",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "110975",
@@ -771,7 +857,8 @@
    "datum": "22.10.2021",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Gewalt/Bedrohung"
+   "delikt": "Gewalt/Bedrohung",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "126722",
@@ -780,7 +867,8 @@
    "datum": "22.08.2024",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "TH"
   },
   {
    "ds": "43777",
@@ -788,7 +876,8 @@
    "titel": "POL-ME: Unbekannte zündeln in Kirche - die Polizei ermittelt - Monheim am Rhein - 2207122",
    "datum": "22.06.2022",
    "begriff": "Kirche angezündet",
-   "delikt": "Andere/unklar"
+   "delikt": "Andere/unklar",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "110970",
@@ -797,7 +886,8 @@
    "datum": "22.05.2025",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "65851",
@@ -805,7 +895,8 @@
    "titel": "POL-NE: Mögliche Brandstiftung in Neusser Kirche",
    "datum": "22.05.2024",
    "begriff": "Kirche angezündet",
-   "delikt": "Brandstiftung"
+   "delikt": "Brandstiftung",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "104234",
@@ -814,7 +905,8 @@
    "datum": "22.05.2022",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Andere/unklar"
+   "delikt": "Andere/unklar",
+   "land_kuerzel": "NI"
   },
   {
    "ds": "134196",
@@ -823,7 +915,8 @@
    "datum": "22.04.2025",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": null
   },
   {
    "ds": "6006",
@@ -832,7 +925,8 @@
    "datum": "22.04.2022",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "104234",
@@ -841,7 +935,8 @@
    "datum": "22.02.2025",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Einbruch"
+   "delikt": "Einbruch",
+   "land_kuerzel": "NI"
   },
   {
    "ds": "110970",
@@ -850,7 +945,8 @@
    "datum": "21.12.2023",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "65850",
@@ -859,7 +955,8 @@
    "datum": "21.09.2026",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "126721",
@@ -868,7 +965,8 @@
    "datum": "21.09.2024",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "TH"
   },
   {
    "ds": "43647",
@@ -877,7 +975,8 @@
    "datum": "21.08.2024",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "TH"
   },
   {
    "ds": "108764",
@@ -886,7 +985,8 @@
    "datum": "21.08.2023",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "HE"
   },
   {
    "ds": "6006",
@@ -895,7 +995,8 @@
    "datum": "21.08.2022",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "119508",
@@ -904,7 +1005,8 @@
    "datum": "21.06.2021",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NI"
   },
   {
    "ds": "110970",
@@ -913,7 +1015,8 @@
    "datum": "21.04.2022",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "52656",
@@ -922,7 +1025,8 @@
    "datum": "20.12.2024",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "14915",
@@ -931,7 +1035,8 @@
    "datum": "20.12.2022",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "47764",
@@ -940,7 +1045,8 @@
    "datum": "20.11.2023",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Sachbeschädigung"
+   "delikt": "Sachbeschädigung",
+   "land_kuerzel": "RP"
   },
   {
    "ds": "110979",
@@ -949,7 +1055,8 @@
    "datum": "20.10.2022",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "6006",
@@ -958,7 +1065,8 @@
    "datum": "20.09.2026",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "110970",
@@ -967,7 +1075,8 @@
    "datum": "20.09.2025",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "65850",
@@ -975,7 +1084,8 @@
    "titel": "POL-MK: Randale auf der Straße und in einer Tankstelle/ Fallrohre an Kirche gestohlen",
    "datum": "20.09.2023",
    "begriff": "Kirche angezündet",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "65843",
@@ -984,7 +1094,8 @@
    "datum": "20.09.2022",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Einbruch"
+   "delikt": "Einbruch",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "108763",
@@ -992,7 +1103,8 @@
    "titel": "POL-LWL: Verdacht der Brandstiftung in Plauer Kirche - Polizei sucht Zeugen",
    "datum": "20.09.2022",
    "begriff": "Kirche angezündet",
-   "delikt": "Brandstiftung"
+   "delikt": "Brandstiftung",
+   "land_kuerzel": "MV"
   },
   {
    "ds": "65849",
@@ -1001,7 +1113,8 @@
    "datum": "20.08.2026",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "110969",
@@ -1010,7 +1123,8 @@
    "datum": "20.08.2024",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "50153",
@@ -1019,7 +1133,8 @@
    "datum": "20.08.2022",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "HE"
   },
   {
    "ds": "110979",
@@ -1028,7 +1143,8 @@
    "datum": "20.07.2026",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "110974",
@@ -1037,7 +1153,8 @@
    "datum": "20.07.2021",
    "snippet": "",
    "begriff": "Tabernakel",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "43558",
@@ -1046,7 +1163,8 @@
    "datum": "20.06.2023",
    "snippet": "",
    "begriff": "Tabernakel",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "HE"
   },
   {
    "ds": "14915",
@@ -1055,7 +1173,8 @@
    "datum": "20.06.2022",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "4969",
@@ -1064,7 +1183,8 @@
    "datum": "20.05.2026",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Einbruch"
+   "delikt": "Einbruch",
+   "land_kuerzel": "HE"
   },
   {
    "ds": "51056",
@@ -1073,7 +1193,8 @@
    "datum": "20.05.2025",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "110970",
@@ -1082,7 +1203,8 @@
    "datum": "20.04.2025",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "59458",
@@ -1091,7 +1213,8 @@
    "datum": "19.11.2024",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NI"
   },
   {
    "ds": "117688",
@@ -1100,7 +1223,8 @@
    "datum": "19.11.2020",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Einbruch"
+   "delikt": "Einbruch",
+   "land_kuerzel": "RP"
   },
   {
    "ds": "126721",
@@ -1109,7 +1233,8 @@
    "datum": "19.10.2026",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "TH"
   },
   {
    "ds": "50153",
@@ -1118,7 +1243,8 @@
    "datum": "19.09.2024",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "HE"
   },
   {
    "ds": "43648",
@@ -1127,7 +1253,8 @@
    "datum": "19.09.2022",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "MV"
   },
   {
    "ds": "8",
@@ -1135,7 +1262,8 @@
    "titel": "POL-DN: Täter verwüstet Kirche auf kuriose Weise",
    "datum": "19.09.2022",
    "begriff": "Kirche angezündet",
-   "delikt": "Sachbeschädigung"
+   "delikt": "Sachbeschädigung",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "117686",
@@ -1144,7 +1272,8 @@
    "datum": "19.07.2021",
    "snippet": "",
    "begriff": "Tabernakel",
-   "delikt": "Sachbeschädigung"
+   "delikt": "Sachbeschädigung",
+   "land_kuerzel": "RP"
   },
   {
    "ds": "65849",
@@ -1153,7 +1282,8 @@
    "datum": "19.01.2026",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "57929",
@@ -1162,7 +1292,8 @@
    "datum": "19.01.2024",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NI"
   },
   {
    "ds": "6006",
@@ -1171,7 +1302,8 @@
    "datum": "18.12.2022",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "110973",
@@ -1180,7 +1312,8 @@
    "datum": "18.11.2024",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Sachbeschädigung"
+   "delikt": "Sachbeschädigung",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "117688",
@@ -1189,7 +1322,8 @@
    "datum": "18.07.2023",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Einbruch"
+   "delikt": "Einbruch",
+   "land_kuerzel": "RP"
   },
   {
    "ds": "117698",
@@ -1198,7 +1332,8 @@
    "datum": "18.06.2023",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "RP"
   },
   {
    "ds": "117697",
@@ -1207,7 +1342,8 @@
    "datum": "18.06.2022",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Einbruch"
+   "delikt": "Einbruch",
+   "land_kuerzel": "RP"
   },
   {
    "ds": "65849",
@@ -1216,7 +1352,8 @@
    "datum": "18.04.2025",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "118012",
@@ -1225,7 +1362,8 @@
    "datum": "18.04.2017",
    "snippet": "",
    "begriff": "Tabernakel",
-   "delikt": "Andere/unklar"
+   "delikt": "Andere/unklar",
+   "land_kuerzel": null
   },
   {
    "ds": "50153",
@@ -1234,7 +1372,8 @@
    "datum": "18.01.2025",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "HE"
   },
   {
    "ds": "55625",
@@ -1243,7 +1382,8 @@
    "datum": "18.01.2022",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "24843",
@@ -1252,7 +1392,8 @@
    "datum": "17.12.2020",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Andere/unklar"
+   "delikt": "Andere/unklar",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "104234",
@@ -1261,7 +1402,8 @@
    "datum": "17.10.2025",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NI"
   },
   {
    "ds": "65841",
@@ -1270,7 +1412,8 @@
    "datum": "17.07.2025",
    "snippet": "",
    "begriff": "Tabernakel",
-   "delikt": "Einbruch"
+   "delikt": "Einbruch",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "52209",
@@ -1279,7 +1422,8 @@
    "datum": "17.04.2026",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "SH"
   },
   {
    "ds": "117709",
@@ -1288,7 +1432,8 @@
    "datum": "17.03.2024",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "RP"
   },
   {
    "ds": "43526",
@@ -1297,7 +1442,8 @@
    "datum": "17.02.2026",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "ST"
   },
   {
    "ds": "43562",
@@ -1306,7 +1452,8 @@
    "datum": "17.02.2025",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "HE"
   },
   {
    "ds": "65849",
@@ -1315,7 +1462,8 @@
    "datum": "16.05.2025",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "117683",
@@ -1324,7 +1472,8 @@
    "datum": "16.05.2024",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Einbruch"
+   "delikt": "Einbruch",
+   "land_kuerzel": "NI"
   },
   {
    "ds": "117686",
@@ -1333,7 +1482,8 @@
    "datum": "16.04.2022",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Einbruch"
+   "delikt": "Einbruch",
+   "land_kuerzel": "RP"
   },
   {
    "ds": "117698",
@@ -1342,7 +1492,8 @@
    "datum": "16.04.2022",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "RP"
   },
   {
    "ds": "169620",
@@ -1351,7 +1502,8 @@
    "datum": "16.02.2026",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": null
   },
   {
    "ds": "65849",
@@ -1360,7 +1512,8 @@
    "datum": "16.01.2025",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Sachbeschädigung"
+   "delikt": "Sachbeschädigung",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "8",
@@ -1369,7 +1522,8 @@
    "datum": "16.01.2023",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Andere/unklar"
+   "delikt": "Andere/unklar",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "43562",
@@ -1378,7 +1532,8 @@
    "datum": "15.03.2023",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Einbruch"
+   "delikt": "Einbruch",
+   "land_kuerzel": "HE"
   },
   {
    "ds": "70090",
@@ -1387,7 +1542,8 @@
    "datum": "15.03.2023",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Einbruch"
+   "delikt": "Einbruch",
+   "land_kuerzel": "NI"
   },
   {
    "ds": "110974",
@@ -1396,7 +1552,8 @@
    "datum": "15.02.2026",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Andere/unklar"
+   "delikt": "Andere/unklar",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "117709",
@@ -1405,7 +1562,8 @@
    "datum": "15.02.2023",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "RP"
   },
   {
    "ds": "56520",
@@ -1414,7 +1572,8 @@
    "datum": "14.11.2023",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NI"
   },
   {
    "ds": "6013",
@@ -1423,7 +1582,8 @@
    "datum": "14.10.2025",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "BY"
   },
   {
    "ds": "117712",
@@ -1432,7 +1592,8 @@
    "datum": "14.08.2026",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "RP"
   },
   {
    "ds": "65851",
@@ -1440,7 +1601,8 @@
    "titel": "POL-NE: Erneute, mutmaßliche Brandstiftung an Kirche - Polizei sucht Zeugen",
    "datum": "14.05.2021",
    "begriff": "Kirche angezündet",
-   "delikt": "Brandstiftung"
+   "delikt": "Brandstiftung",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "57922",
@@ -1448,7 +1610,8 @@
    "titel": "POL-NI: Polizeilicher Ermittlungserfolg: &quot;Grabpluenderer&quot; ermittelt",
    "datum": "14.05.2007",
    "begriff": "Friedhof geplündert",
-   "delikt": "Andere/unklar"
+   "delikt": "Andere/unklar",
+   "land_kuerzel": "NI"
   },
   {
    "ds": "14915",
@@ -1457,7 +1620,8 @@
    "datum": "14.03.2022",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "43559",
@@ -1465,7 +1629,8 @@
    "titel": "POL-GI: Handtasche nach Gottesdienst geraubt - Zeugenaufruf + Zweimal in kirchliche Einrichtung eingebrochen + Unfallbeteiligter verfolgt den Unfallflüchtigen",
    "datum": "14.02.2022",
    "begriff": "Kirche angezündet",
-   "delikt": "Andere/unklar"
+   "delikt": "Andere/unklar",
+   "land_kuerzel": "HE"
   },
   {
    "ds": "65855",
@@ -1474,7 +1639,8 @@
    "datum": "14.01.2025",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "117698",
@@ -1483,7 +1649,8 @@
    "datum": "13.11.2025",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "RP"
   },
   {
    "ds": "178881",
@@ -1492,7 +1659,8 @@
    "datum": "13.05.2026",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "SN"
   },
   {
    "ds": "68438",
@@ -1500,7 +1668,8 @@
    "titel": "POL-DEL: Stadt Delmenhorst: Versuchte Brandstiftung in Kirchengebäude",
    "datum": "13.05.2026",
    "begriff": "Kirche angezündet",
-   "delikt": "Brandstiftung"
+   "delikt": "Brandstiftung",
+   "land_kuerzel": "NI"
   },
   {
    "ds": "126720",
@@ -1509,7 +1678,8 @@
    "datum": "13.04.2024",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "42900",
@@ -1518,7 +1688,8 @@
    "datum": "13.03.2026",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "126722",
@@ -1527,7 +1698,8 @@
    "datum": "13.02.2026",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Andere/unklar"
+   "delikt": "Andere/unklar",
+   "land_kuerzel": "TH"
   },
   {
    "ds": "108763",
@@ -1536,7 +1708,8 @@
    "datum": "13.02.2023",
    "snippet": "",
    "begriff": "geschändet",
-   "delikt": "Sachbeschädigung"
+   "delikt": "Sachbeschädigung",
+   "land_kuerzel": "MV"
   },
   {
    "ds": "55625",
@@ -1545,7 +1718,8 @@
    "datum": "13.01.2022",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Andere/unklar"
+   "delikt": "Andere/unklar",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "6313",
@@ -1554,7 +1728,8 @@
    "datum": "12.12.2025",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Sachbeschädigung"
+   "delikt": "Sachbeschädigung",
+   "land_kuerzel": "SH"
   },
   {
    "ds": "126723",
@@ -1563,7 +1738,8 @@
    "datum": "12.11.2024",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Andere/unklar"
+   "delikt": "Andere/unklar",
+   "land_kuerzel": "TH"
   },
   {
    "ds": "30127",
@@ -1572,7 +1748,8 @@
    "datum": "12.10.2023",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Andere/unklar"
+   "delikt": "Andere/unklar",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "110979",
@@ -1581,7 +1758,8 @@
    "datum": "12.09.2023",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "117711",
@@ -1590,7 +1768,8 @@
    "datum": "12.08.2020",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "RP"
   },
   {
    "ds": "110970",
@@ -1598,7 +1777,8 @@
    "titel": "POL-FR: Elzach: Sachbeschädigung in der Pfarrkirche (Ursprungsmeldung)- Ergänzung",
    "datum": "12.07.2019",
    "begriff": "Kirche angezündet",
-   "delikt": "Sachbeschädigung"
+   "delikt": "Sachbeschädigung",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "24843",
@@ -1607,7 +1787,8 @@
    "datum": "12.05.2022",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Einbruch"
+   "delikt": "Einbruch",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "117709",
@@ -1616,7 +1797,8 @@
    "datum": "12.03.2026",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "RP"
   },
   {
    "ds": "43526",
@@ -1625,7 +1807,8 @@
    "datum": "12.03.2021",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "ST"
   },
   {
    "ds": "57929",
@@ -1633,7 +1816,8 @@
    "titel": "POL-NOM: Brandstiftung in Kirche",
    "datum": "12.03.2008",
    "begriff": "Kirche angezündet",
-   "delikt": "Brandstiftung"
+   "delikt": "Brandstiftung",
+   "land_kuerzel": "NI"
   },
   {
    "ds": "104234",
@@ -1642,7 +1826,8 @@
    "datum": "12.02.2026",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NI"
   },
   {
    "ds": "65850",
@@ -1651,7 +1836,8 @@
    "datum": "11.12.2024",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "110979",
@@ -1660,7 +1846,8 @@
    "datum": "11.11.2020",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "43561",
@@ -1669,7 +1856,8 @@
    "datum": "11.09.2020",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Andere/unklar"
+   "delikt": "Andere/unklar",
+   "land_kuerzel": "HE"
   },
   {
    "ds": "43558",
@@ -1678,7 +1866,8 @@
    "datum": "11.08.2026",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "HE"
   },
   {
    "ds": "110971",
@@ -1687,7 +1876,8 @@
    "datum": "11.08.2025",
    "snippet": "",
    "begriff": "Tabernakel",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "43558",
@@ -1696,7 +1886,8 @@
    "datum": "11.08.2024",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "HE"
   },
   {
    "ds": "44150",
@@ -1705,7 +1896,8 @@
    "datum": "11.07.2021",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "HE"
   },
   {
    "ds": "57922",
@@ -1714,7 +1906,8 @@
    "datum": "11.06.2026",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NI"
   },
   {
    "ds": "52209",
@@ -1723,7 +1916,8 @@
    "datum": "11.06.2025",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "SH"
   },
   {
    "ds": "50153",
@@ -1732,7 +1926,8 @@
    "datum": "11.05.2023",
    "snippet": "",
    "begriff": "Tabernakel",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "HE"
   },
   {
    "ds": "117709",
@@ -1741,7 +1936,8 @@
    "datum": "11.03.2026",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "RP"
   },
   {
    "ds": "50153",
@@ -1750,7 +1946,8 @@
    "datum": "11.01.2024",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "HE"
   },
   {
    "ds": "59488",
@@ -1759,7 +1956,8 @@
    "datum": "10.12.2024",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NI"
   },
   {
    "ds": "110973",
@@ -1768,7 +1966,8 @@
    "datum": "10.12.2020",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "65844",
@@ -1777,7 +1976,8 @@
    "datum": "10.11.2020",
    "snippet": "",
    "begriff": "Tabernakel",
-   "delikt": "Einbruch"
+   "delikt": "Einbruch",
+   "land_kuerzel": "HH"
   },
   {
    "ds": "110973",
@@ -1786,7 +1986,8 @@
    "datum": "10.08.2024",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "104234",
@@ -1795,7 +1996,8 @@
    "datum": "10.08.2021",
    "snippet": "",
    "begriff": "Tabernakel",
-   "delikt": "Andere/unklar"
+   "delikt": "Andere/unklar",
+   "land_kuerzel": "NI"
   },
   {
    "ds": "117708",
@@ -1804,7 +2006,8 @@
    "datum": "10.02.2025",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Einbruch"
+   "delikt": "Einbruch",
+   "land_kuerzel": "RP"
   },
   {
    "ds": "65849",
@@ -1813,7 +2016,8 @@
    "datum": "10.02.2021",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "104234",
@@ -1822,7 +2026,8 @@
    "datum": "10.01.2021",
    "snippet": "",
    "begriff": "Tabernakel",
-   "delikt": "Einbruch"
+   "delikt": "Einbruch",
+   "land_kuerzel": "NI"
   },
   {
    "ds": "110973",
@@ -1831,7 +2036,8 @@
    "datum": "09.12.2024",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Andere/unklar"
+   "delikt": "Andere/unklar",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "110970",
@@ -1840,7 +2046,8 @@
    "datum": "09.11.2025",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "12727",
@@ -1849,7 +2056,8 @@
    "datum": "09.11.2022",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "13248",
@@ -1857,7 +2065,8 @@
    "titel": "POL-D: Perfide Grabschänder in Wersten festgenommen",
    "datum": "09.11.2007",
    "begriff": "Friedhof geplündert",
-   "delikt": "Andere/unklar"
+   "delikt": "Andere/unklar",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "57929",
@@ -1866,7 +2075,8 @@
    "datum": "09.10.2019",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NI"
   },
   {
    "ds": "12727",
@@ -1875,7 +2085,8 @@
    "datum": "09.01.2025",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "43559",
@@ -1884,7 +2095,8 @@
    "datum": "09.01.2024",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "HE"
   },
   {
    "ds": "110970",
@@ -1893,7 +2105,8 @@
    "datum": "08.12.2021",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "110979",
@@ -1902,7 +2115,8 @@
    "datum": "08.10.2021",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Einbruch"
+   "delikt": "Einbruch",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "65843",
@@ -1911,7 +2125,8 @@
    "datum": "08.10.2021",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "59457",
@@ -1920,7 +2135,8 @@
    "datum": "08.09.2026",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NI"
   },
   {
    "ds": "154582",
@@ -1929,7 +2145,8 @@
    "datum": "08.09.2025",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Einbruch"
+   "delikt": "Einbruch",
+   "land_kuerzel": null
   },
   {
    "ds": "65849",
@@ -1938,7 +2155,8 @@
    "datum": "08.09.2025",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "110976",
@@ -1947,7 +2165,8 @@
    "datum": "08.07.2024",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "14915",
@@ -1956,7 +2175,8 @@
    "datum": "08.07.2024",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "23127",
@@ -1965,7 +2185,8 @@
    "datum": "08.04.2021",
    "snippet": "",
    "begriff": "geschändet",
-   "delikt": "Brandstiftung"
+   "delikt": "Brandstiftung",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "110971",
@@ -1974,7 +2195,8 @@
    "datum": "08.01.2025",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "24843",
@@ -1983,7 +2205,8 @@
    "datum": "08.01.2024",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "110975",
@@ -1992,7 +2215,8 @@
    "datum": "08.01.2022",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "110979",
@@ -2001,7 +2225,8 @@
    "datum": "07.12.2021",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "8",
@@ -2010,7 +2235,8 @@
    "datum": "07.11.2025",
    "snippet": "",
    "begriff": "geschändet",
-   "delikt": "Andere/unklar"
+   "delikt": "Andere/unklar",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "65843",
@@ -2019,7 +2245,8 @@
    "datum": "07.11.2025",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "13248",
@@ -2028,7 +2255,8 @@
    "datum": "07.10.2024",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "43738",
@@ -2037,7 +2265,8 @@
    "datum": "07.07.2022",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "SH"
   },
   {
    "ds": "110976",
@@ -2046,7 +2275,8 @@
    "datum": "07.07.2016",
    "snippet": "",
    "begriff": "Tabernakel",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "110970",
@@ -2055,7 +2285,8 @@
    "datum": "07.05.2022",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "52209",
@@ -2064,7 +2295,8 @@
    "datum": "07.02.2025",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "SH"
   },
   {
    "ds": "110975",
@@ -2073,7 +2305,8 @@
    "datum": "07.02.2022",
    "snippet": "",
    "begriff": "Tabernakel",
-   "delikt": "Andere/unklar"
+   "delikt": "Andere/unklar",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "110976",
@@ -2082,7 +2315,8 @@
    "datum": "06.12.2015",
    "snippet": "",
    "begriff": "Tabernakel",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "117686",
@@ -2090,7 +2324,8 @@
    "titel": "POL-PDLD: Steinfeld - Brand in Protestantischen Kirche",
    "datum": "06.09.2023",
    "begriff": "Kirche angezündet",
-   "delikt": "Andere/unklar"
+   "delikt": "Andere/unklar",
+   "land_kuerzel": "RP"
   },
   {
    "ds": "65848",
@@ -2099,7 +2334,8 @@
    "datum": "06.07.2024",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "11559",
@@ -2108,7 +2344,8 @@
    "datum": "06.06.2025",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Sachbeschädigung"
+   "delikt": "Sachbeschädigung",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "4969",
@@ -2117,7 +2354,8 @@
    "datum": "06.06.2024",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "HE"
   },
   {
    "ds": "50154",
@@ -2126,7 +2364,8 @@
    "datum": "06.05.2026",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "HE"
   },
   {
    "ds": "117697",
@@ -2135,7 +2374,8 @@
    "datum": "06.03.2021",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "RP"
   },
   {
    "ds": "65847",
@@ -2144,7 +2384,8 @@
    "datum": "06.03.2021",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "117679",
@@ -2153,7 +2394,8 @@
    "datum": "06.03.2020",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "RP"
   },
   {
    "ds": "110970",
@@ -2162,7 +2404,8 @@
    "datum": "06.01.2023",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Einbruch"
+   "delikt": "Einbruch",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "104234",
@@ -2171,7 +2414,8 @@
    "datum": "05.12.2024",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NI"
   },
   {
    "ds": "65858",
@@ -2180,7 +2424,8 @@
    "datum": "05.11.2021",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Andere/unklar"
+   "delikt": "Andere/unklar",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "110970",
@@ -2189,7 +2434,8 @@
    "datum": "05.08.2026",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "43526",
@@ -2198,7 +2444,8 @@
    "datum": "05.08.2024",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "ST"
   },
   {
    "ds": "6006",
@@ -2207,7 +2454,8 @@
    "datum": "05.08.2022",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "126722",
@@ -2216,7 +2464,8 @@
    "datum": "05.05.2025",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "TH"
   },
   {
    "ds": "43561",
@@ -2225,7 +2474,8 @@
    "datum": "05.05.2022",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Sachbeschädigung"
+   "delikt": "Sachbeschädigung",
+   "land_kuerzel": "HE"
   },
   {
    "ds": "14915",
@@ -2234,7 +2484,8 @@
    "datum": "05.01.2026",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "50153",
@@ -2243,7 +2494,8 @@
    "datum": "04.09.2026",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "HE"
   },
   {
    "ds": "65845",
@@ -2252,7 +2504,8 @@
    "datum": "04.09.2024",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Sachbeschädigung"
+   "delikt": "Sachbeschädigung",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "110976",
@@ -2261,7 +2514,8 @@
    "datum": "04.06.2024",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "117710",
@@ -2270,7 +2524,8 @@
    "datum": "04.06.2021",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "RP"
   },
   {
    "ds": "43558",
@@ -2279,7 +2534,8 @@
    "datum": "04.05.2026",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "HE"
   },
   {
    "ds": "4969",
@@ -2288,7 +2544,8 @@
    "datum": "04.05.2025",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "HE"
   },
   {
    "ds": "137462",
@@ -2297,7 +2554,8 @@
    "datum": "04.01.2025",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": null
   },
   {
    "ds": "52209",
@@ -2306,7 +2564,8 @@
    "datum": "03.11.2025",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Andere/unklar"
+   "delikt": "Andere/unklar",
+   "land_kuerzel": "SH"
   },
   {
    "ds": "110969",
@@ -2315,7 +2574,8 @@
    "datum": "03.09.2025",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "50153",
@@ -2323,7 +2583,8 @@
    "titel": "POL-LM: +++ Auto aufgebrochen +++ Versuchter Einbruch in Kirche +++ Wohnhausbrand +++ Motorrollerfahrer fährt ohne Führerschein und verletzt sich bei Unfall +++",
    "datum": "03.09.2023",
    "begriff": "Kirche angezündet",
-   "delikt": "Einbruch"
+   "delikt": "Einbruch",
+   "land_kuerzel": "HE"
   },
   {
    "ds": "117715",
@@ -2332,7 +2593,8 @@
    "datum": "03.08.2021",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "RP"
   },
   {
    "ds": "68442",
@@ -2341,7 +2603,8 @@
    "datum": "03.08.2021",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NI"
   },
   {
    "ds": "117701",
@@ -2350,7 +2613,8 @@
    "datum": "03.08.2016",
    "snippet": "",
    "begriff": "Tabernakel",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "RP"
   },
   {
    "ds": "65851",
@@ -2359,7 +2623,8 @@
    "datum": "03.06.2020",
    "snippet": "",
    "begriff": "Tabernakel",
-   "delikt": "Andere/unklar"
+   "delikt": "Andere/unklar",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "43738",
@@ -2368,7 +2633,8 @@
    "datum": "03.05.2026",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "SH"
   },
   {
    "ds": "110971",
@@ -2377,7 +2643,8 @@
    "datum": "03.04.2025",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "117698",
@@ -2386,7 +2653,8 @@
    "datum": "03.02.2025",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "RP"
   },
   {
    "ds": "110973",
@@ -2395,7 +2663,8 @@
    "datum": "02.10.2026",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Einbruch"
+   "delikt": "Einbruch",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "50153",
@@ -2404,7 +2673,8 @@
    "datum": "02.09.2024",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "HE"
   },
   {
    "ds": "43648",
@@ -2413,7 +2683,8 @@
    "datum": "02.06.2023",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "MV"
   },
   {
    "ds": "65850",
@@ -2422,7 +2693,8 @@
    "datum": "02.03.2022",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Einbruch"
+   "delikt": "Einbruch",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "110969",
@@ -2431,7 +2703,8 @@
    "datum": "01.10.2023",
    "snippet": "",
    "begriff": "geschändet",
-   "delikt": "Sachbeschädigung"
+   "delikt": "Sachbeschädigung",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "117697",
@@ -2440,7 +2713,8 @@
    "datum": "01.10.2020",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "RP"
   },
   {
    "ds": "110969",
@@ -2449,7 +2723,8 @@
    "datum": "01.09.2022",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "24843",
@@ -2458,7 +2733,8 @@
    "datum": "01.07.2021",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "117697",
@@ -2467,7 +2743,8 @@
    "datum": "01.06.2023",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "RP"
   },
   {
    "ds": "117697",
@@ -2476,7 +2753,8 @@
    "datum": "01.04.2022",
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "RP"
   },
   {
    "ds": "65848",
@@ -2484,7 +2762,8 @@
    "titel": "POL-HX: Zier-Orgelpfeifen in Kirche zerstört",
    "datum": "01.04.2021",
    "begriff": "Kirche angezündet",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "117709",
@@ -2493,7 +2772,8 @@
    "datum": "01.01.2025",
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "RP"
   },
   {
    "ds": "117686",
@@ -2502,7 +2782,8 @@
    "datum": null,
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "RP"
   },
   {
    "ds": "65845",
@@ -2511,7 +2792,8 @@
    "datum": null,
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "110970",
@@ -2520,7 +2802,8 @@
    "datum": null,
    "snippet": "",
    "begriff": "Opferstock",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "BW"
   },
   {
    "ds": "8",
@@ -2529,7 +2812,8 @@
    "datum": null,
    "snippet": "",
    "begriff": "Tabernakel",
-   "delikt": "Einbruch"
+   "delikt": "Einbruch",
+   "land_kuerzel": "NRW"
   },
   {
    "ds": "117709",
@@ -2538,7 +2822,8 @@
    "datum": null,
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "RP"
   },
   {
    "ds": "4969",
@@ -2547,7 +2832,8 @@
    "datum": null,
    "snippet": "",
    "begriff": "Kirche Diebstahl",
-   "delikt": "Diebstahl/Kirchenraub"
+   "delikt": "Diebstahl/Kirchenraub",
+   "land_kuerzel": "HE"
   }
  ]
 }

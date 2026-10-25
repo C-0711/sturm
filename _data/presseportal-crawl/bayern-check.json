@@ -1,0 +1,29 @@
+{
+ "Opferstock": {
+  "total": 210,
+  "bayern": 7,
+  "beispiele": [
+   "POL Schwaben Nord: Polizei ermittelt nach versuchtem Diebstahl aus ein",
+   "POL Schwaben Nord: Polizei ermittelt nach weiterem Opferstockaufbruch ",
+   "POL Schwaben Nord: Polizei sucht Zeugen nach Opferstockdiebstahl",
+   "POL Schwaben Nord: Polizei sucht Zeugen nach Opferstockdiebstahl",
+   "POL Schwaben Nord: Polizei sucht Zeugen nach Opferstockdiebstahl"
+  ]
+ },
+ "Tabernakel": {
+  "total": 28,
+  "bayern": 0,
+  "beispiele": []
+ },
+ "Kirche Diebstahl": {
+  "total": 210,
+  "bayern": 5,
+  "beispiele": [
+   "POL Schwaben Nord: Polizei ermittelt nach versuchtem Diebstahl aus ein",
+   "POL Schwaben Nord: Polizei ermittelt nach Diebstahl aus einer Kirche",
+   "POL-HSK: Diebstahl am Hofladen in Calle - Täter ließen ihr Auto zurück",
+   "POL-KN: (Oberndorf am Neckar, Dornhan - Lkr. Rottweil / Niedereschach ",
+   "POL Schwaben Nord: Polizei nimmt Tatverdächtige fest"
+  ]
+ }
+}
